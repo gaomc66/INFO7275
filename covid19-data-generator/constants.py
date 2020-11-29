@@ -38,6 +38,15 @@ age_weight = {
     '7/19-7/26': {'0-19': 15, '20-29': 23, '30-39': 17, '40-49': 11, '50-59': 14, '60-69': 9, '70-79': 5, '80+': 5}
 }
 
+#
+gender_list = ('male', 'female')
+medical_status_list = ('Positive', 'Negative')
+
+# id
+age_group_id_list = ()
+test_center_id_list = ()
+medical_center_id_list = ('XXX', 'XXX')
+
 
 def generate_date_range():
     for i in range(1, 31):
