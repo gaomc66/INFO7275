@@ -1,0 +1,1 @@
+# Data Generator for Covid-19 App
