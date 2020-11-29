@@ -43,9 +43,14 @@ gender_list = ('male', 'female')
 medical_status_list = ('Positive', 'Negative')
 
 # id
-age_group_id_list = ()
-test_center_id_list = ()
-medical_center_id_list = ('XXX', 'XXX')
+age_group_id_list = ('agid01', 'agid02', 'agid03', 'agid04', 'agid05', 'agid06', 'agid07', 'agid08')
+test_center_id_list = (
+    'tctid001', 'tctid002', 'tctid003', 'tctid004', 'tctid005', 'tctid006', 'tctid007', 'tctid008', 'tctid009',
+    'tctid010',
+    'tctid011', 'tctid012', 'tctid013', 'tctid014')
+medical_center_id_list = (
+'mctid001', 'mctid002', 'mctid003', 'mctid004', 'mctid005', 'mctid006', 'mctid007', 'mctid008', 'mctid009', 'mctid010',
+'mctid011', 'mctid012', 'mctid013', 'mctid014')
 
 
 def generate_date_range():
@@ -54,5 +59,3 @@ def generate_date_range():
     for i in range(1, 32):
         date_range.append('7/' + str(i))
     print(date_range)
-
-
