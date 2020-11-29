@@ -38,9 +38,12 @@ age_weight = {
     '7/19-7/26': {'0-19': 15, '20-29': 23, '30-39': 17, '40-49': 11, '50-59': 14, '60-69': 9, '70-79': 5, '80+': 5}
 }
 
-for i in range(1,31):
-    date_range.append('6/'+str(i))
-for i in range(1,32):
-    date_range.append('7/'+str(i))
 
-print(date_range)
+def generate_date_range():
+    for i in range(1, 31):
+        date_range.append('6/' + str(i))
+    for i in range(1, 32):
+        date_range.append('7/' + str(i))
+    print(date_range)
+
+
