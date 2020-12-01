@@ -1,0 +1,1640 @@
+UserID,MedicalCenterID,StatusID,_id
+usrid00000014,mctid006,Lost Tracking,mcrid00000001
+usrid00000032,mctid001,Recoverd,mcrid00000002
+usrid00000037,mctid005,Recoverd,mcrid00000003
+usrid00000049,mctid001,Lost Tracking,mcrid00000004
+usrid00000057,mctid008,Lost Tracking,mcrid00000005
+usrid00000066,mctid006,Death,mcrid00000006
+usrid00000074,mctid004,Lost Tracking,mcrid00000007
+usrid00000079,mctid002,Recoverd,mcrid00000008
+usrid00000083,mctid006,Death,mcrid00000009
+usrid00000093,mctid008,Recoverd,mcrid00000010
+usrid00000107,mctid003,Lost Tracking,mcrid00000011
+usrid00000108,mctid006,Lost Tracking,mcrid00000012
+usrid00000109,mctid001,Recoverd,mcrid00000013
+usrid00000123,mctid006,Recoverd,mcrid00000014
+usrid00000127,mctid008,Recoverd,mcrid00000015
+usrid00000149,mctid005,Recoverd,mcrid00000016
+usrid00000170,mctid005,Lost Tracking,mcrid00000017
+usrid00000180,mctid006,Recoverd,mcrid00000018
+usrid00000204,mctid004,Recoverd,mcrid00000019
+usrid00000212,mctid006,Lost Tracking,mcrid00000020
+usrid00000243,mctid001,Lost Tracking,mcrid00000021
+usrid00000245,mctid002,Lost Tracking,mcrid00000022
+usrid00000256,mctid006,Recoverd,mcrid00000023
+usrid00000265,mctid005,Lost Tracking,mcrid00000024
+usrid00000266,mctid009,Recoverd,mcrid00000025
+usrid00000281,mctid005,Lost Tracking,mcrid00000026
+usrid00000283,mctid005,Recoverd,mcrid00000027
+usrid00000284,mctid006,Lost Tracking,mcrid00000028
+usrid00000356,mctid005,Lost Tracking,mcrid00000029
+usrid00000368,mctid008,Recoverd,mcrid00000030
+usrid00000372,mctid008,Recoverd,mcrid00000031
+usrid00000381,mctid006,Recoverd,mcrid00000032
+usrid00000406,mctid005,Recoverd,mcrid00000033
+usrid00000422,mctid006,Lost Tracking,mcrid00000034
+usrid00000431,mctid006,Lost Tracking,mcrid00000035
+usrid00000440,mctid002,Recoverd,mcrid00000036
+usrid00000447,mctid005,Lost Tracking,mcrid00000037
+usrid00000460,mctid006,Lost Tracking,mcrid00000038
+usrid00000482,mctid005,Recoverd,mcrid00000039
+usrid00000483,mctid004,Death,mcrid00000040
+usrid00000505,mctid002,Recoverd,mcrid00000041
+usrid00000508,mctid006,Lost Tracking,mcrid00000042
+usrid00000535,mctid006,Recoverd,mcrid00000043
+usrid00000577,mctid006,Recoverd,mcrid00000044
+usrid00000580,mctid009,Recoverd,mcrid00000045
+usrid00000599,mctid006,Recoverd,mcrid00000046
+usrid00000611,mctid004,Death,mcrid00000047
+usrid00000619,mctid005,Recoverd,mcrid00000048
+usrid00000649,mctid004,Death,mcrid00000049
+usrid00000652,mctid005,Recoverd,mcrid00000050
+usrid00000670,mctid007,Lost Tracking,mcrid00000051
+usrid00000695,mctid001,Recoverd,mcrid00000052
+usrid00000706,mctid005,Recoverd,mcrid00000053
+usrid00000708,mctid003,Recoverd,mcrid00000054
+usrid00000711,mctid008,Lost Tracking,mcrid00000055
+usrid00000743,mctid002,Death,mcrid00000056
+usrid00000760,mctid007,Recoverd,mcrid00000057
+usrid00000768,mctid001,Recoverd,mcrid00000058
+usrid00000783,mctid004,Lost Tracking,mcrid00000059
+usrid00000785,mctid006,Recoverd,mcrid00000060
+usrid00000809,mctid009,Recoverd,mcrid00000061
+usrid00000815,mctid001,Recoverd,mcrid00000062
+usrid00000824,mctid005,Recoverd,mcrid00000063
+usrid00000854,mctid002,Death,mcrid00000064
+usrid00000856,mctid006,Death,mcrid00000065
+usrid00000875,mctid006,Death,mcrid00000066
+usrid00000899,mctid005,Recoverd,mcrid00000067
+usrid00000932,mctid001,Recoverd,mcrid00000068
+usrid00000933,mctid005,Recoverd,mcrid00000069
+usrid00000962,mctid008,Recoverd,mcrid00000070
+usrid00000975,mctid008,Lost Tracking,mcrid00000071
+usrid00000988,mctid007,Lost Tracking,mcrid00000072
+usrid00001007,mctid006,Lost Tracking,mcrid00000073
+usrid00001058,mctid008,Recoverd,mcrid00000074
+usrid00001067,mctid008,Lost Tracking,mcrid00000075
+usrid00001074,mctid008,Recoverd,mcrid00000076
+usrid00001076,mctid005,Recoverd,mcrid00000077
+usrid00001081,mctid002,Recoverd,mcrid00000078
+usrid00001134,mctid001,Lost Tracking,mcrid00000079
+usrid00001136,mctid007,Recoverd,mcrid00000080
+usrid00001174,mctid005,Lost Tracking,mcrid00000081
+usrid00001190,mctid009,Lost Tracking,mcrid00000082
+usrid00001191,mctid006,Recoverd,mcrid00000083
+usrid00001203,mctid006,Lost Tracking,mcrid00000084
+usrid00001209,mctid002,Death,mcrid00000085
+usrid00001214,mctid006,Recoverd,mcrid00000086
+usrid00001248,mctid005,Lost Tracking,mcrid00000087
+usrid00001260,mctid006,Recoverd,mcrid00000088
+usrid00001263,mctid009,Recoverd,mcrid00000089
+usrid00001269,mctid005,Lost Tracking,mcrid00000090
+usrid00001286,mctid002,Lost Tracking,mcrid00000091
+usrid00001295,mctid004,Death,mcrid00000092
+usrid00001301,mctid008,Lost Tracking,mcrid00000093
+usrid00001310,mctid007,Recoverd,mcrid00000094
+usrid00001311,mctid001,Recoverd,mcrid00000095
+usrid00001314,mctid008,Recoverd,mcrid00000096
+usrid00001329,mctid006,Recoverd,mcrid00000097
+usrid00001338,mctid002,Recoverd,mcrid00000098
+usrid00001341,mctid006,Lost Tracking,mcrid00000099
+usrid00001345,mctid005,Lost Tracking,mcrid00000100
+usrid00001385,mctid002,Lost Tracking,mcrid00000101
+usrid00001395,mctid006,Recoverd,mcrid00000102
+usrid00001406,mctid009,Recoverd,mcrid00000103
+usrid00001411,mctid009,Lost Tracking,mcrid00000104
+usrid00001438,mctid009,Lost Tracking,mcrid00000105
+usrid00001465,mctid005,Recoverd,mcrid00000106
+usrid00001484,mctid003,Lost Tracking,mcrid00000107
+usrid00001492,mctid008,Lost Tracking,mcrid00000108
+usrid00001499,mctid008,Recoverd,mcrid00000109
+usrid00001542,mctid006,Recoverd,mcrid00000110
+usrid00001551,mctid005,Lost Tracking,mcrid00000111
+usrid00001556,mctid009,Lost Tracking,mcrid00000112
+usrid00001562,mctid004,Recoverd,mcrid00000113
+usrid00001563,mctid006,Recoverd,mcrid00000114
+usrid00001565,mctid008,Recoverd,mcrid00000115
+usrid00001567,mctid005,Lost Tracking,mcrid00000116
+usrid00001583,mctid006,Recoverd,mcrid00000117
+usrid00001587,mctid005,Recoverd,mcrid00000118
+usrid00001590,mctid006,Lost Tracking,mcrid00000119
+usrid00001616,mctid006,Recoverd,mcrid00000120
+usrid00001626,mctid005,Recoverd,mcrid00000121
+usrid00001632,mctid007,Recoverd,mcrid00000122
+usrid00001634,mctid008,Recoverd,mcrid00000123
+usrid00001648,mctid005,Recoverd,mcrid00000124
+usrid00001654,mctid005,Recoverd,mcrid00000125
+usrid00001665,mctid009,Recoverd,mcrid00000126
+usrid00001670,mctid006,Recoverd,mcrid00000127
+usrid00001671,mctid001,Recoverd,mcrid00000128
+usrid00001699,mctid006,Lost Tracking,mcrid00000129
+usrid00001701,mctid003,Recoverd,mcrid00000130
+usrid00001721,mctid006,Lost Tracking,mcrid00000131
+usrid00001725,mctid009,Lost Tracking,mcrid00000132
+usrid00001745,mctid002,Lost Tracking,mcrid00000133
+usrid00001768,mctid005,Lost Tracking,mcrid00000134
+usrid00001781,mctid007,Recoverd,mcrid00000135
+usrid00001789,mctid003,Recoverd,mcrid00000136
+usrid00001790,mctid006,Recoverd,mcrid00000137
+usrid00001795,mctid001,Recoverd,mcrid00000138
+usrid00001801,mctid008,Lost Tracking,mcrid00000139
+usrid00001819,mctid008,Lost Tracking,mcrid00000140
+usrid00001821,mctid003,Recoverd,mcrid00000141
+usrid00001840,mctid008,Lost Tracking,mcrid00000142
+usrid00001848,mctid005,Death,mcrid00000143
+usrid00001850,mctid006,Recoverd,mcrid00000144
+usrid00001851,mctid005,Recoverd,mcrid00000145
+usrid00001863,mctid001,Lost Tracking,mcrid00000146
+usrid00001868,mctid006,Recoverd,mcrid00000147
+usrid00001881,mctid004,Recoverd,mcrid00000148
+usrid00001882,mctid003,Recoverd,mcrid00000149
+usrid00001885,mctid006,Recoverd,mcrid00000150
+usrid00001889,mctid008,Recoverd,mcrid00000151
+usrid00001912,mctid004,Lost Tracking,mcrid00000152
+usrid00001922,mctid009,Lost Tracking,mcrid00000153
+usrid00001932,mctid001,Recoverd,mcrid00000154
+usrid00001947,mctid006,Lost Tracking,mcrid00000155
+usrid00001952,mctid005,Recoverd,mcrid00000156
+usrid00001966,mctid001,Recoverd,mcrid00000157
+usrid00001993,mctid006,Recoverd,mcrid00000158
+usrid00001994,mctid009,Lost Tracking,mcrid00000159
+usrid00002044,mctid005,Lost Tracking,mcrid00000160
+usrid00002058,mctid008,Lost Tracking,mcrid00000161
+usrid00002080,mctid001,Recoverd,mcrid00000162
+usrid00002085,mctid006,Lost Tracking,mcrid00000163
+usrid00002088,mctid006,Recoverd,mcrid00000164
+usrid00002095,mctid004,Recoverd,mcrid00000165
+usrid00002105,mctid008,Recoverd,mcrid00000166
+usrid00002114,mctid008,Recoverd,mcrid00000167
+usrid00002120,mctid006,Recoverd,mcrid00000168
+usrid00002123,mctid006,Recoverd,mcrid00000169
+usrid00002148,mctid008,Recoverd,mcrid00000170
+usrid00002153,mctid007,Lost Tracking,mcrid00000171
+usrid00002159,mctid005,Recoverd,mcrid00000172
+usrid00002173,mctid002,Recoverd,mcrid00000173
+usrid00002183,mctid001,Recoverd,mcrid00000174
+usrid00002193,mctid009,Recoverd,mcrid00000175
+usrid00002207,mctid006,Lost Tracking,mcrid00000176
+usrid00002216,mctid005,Recoverd,mcrid00000177
+usrid00002273,mctid006,Lost Tracking,mcrid00000178
+usrid00002310,mctid006,Recoverd,mcrid00000179
+usrid00002311,mctid007,Recoverd,mcrid00000180
+usrid00002348,mctid004,Lost Tracking,mcrid00000181
+usrid00002367,mctid006,Recoverd,mcrid00000182
+usrid00002379,mctid004,Recoverd,mcrid00000183
+usrid00002403,mctid007,Recoverd,mcrid00000184
+usrid00002425,mctid006,Recoverd,mcrid00000185
+usrid00002440,mctid007,Lost Tracking,mcrid00000186
+usrid00002458,mctid008,Lost Tracking,mcrid00000187
+usrid00002464,mctid002,Recoverd,mcrid00000188
+usrid00002468,mctid006,Recoverd,mcrid00000189
+usrid00002469,mctid006,Recoverd,mcrid00000190
+usrid00002471,mctid006,Recoverd,mcrid00000191
+usrid00002474,mctid006,Recoverd,mcrid00000192
+usrid00002480,mctid002,Recoverd,mcrid00000193
+usrid00002482,mctid001,Recoverd,mcrid00000194
+usrid00002515,mctid006,Recoverd,mcrid00000195
+usrid00002519,mctid008,Recoverd,mcrid00000196
+usrid00002543,mctid007,Lost Tracking,mcrid00000197
+usrid00002569,mctid001,Recoverd,mcrid00000198
+usrid00002570,mctid007,Recoverd,mcrid00000199
+usrid00002609,mctid006,Recoverd,mcrid00000200
+usrid00002628,mctid002,Recoverd,mcrid00000201
+usrid00002638,mctid006,Recoverd,mcrid00000202
+usrid00002643,mctid006,Lost Tracking,mcrid00000203
+usrid00002674,mctid006,Recoverd,mcrid00000204
+usrid00002709,mctid009,Lost Tracking,mcrid00000205
+usrid00002745,mctid005,Lost Tracking,mcrid00000206
+usrid00002811,mctid006,Recoverd,mcrid00000207
+usrid00002840,mctid006,Recoverd,mcrid00000208
+usrid00002871,mctid003,Lost Tracking,mcrid00000209
+usrid00002874,mctid002,Lost Tracking,mcrid00000210
+usrid00002875,mctid008,Lost Tracking,mcrid00000211
+usrid00002896,mctid006,Lost Tracking,mcrid00000212
+usrid00002914,mctid002,Recoverd,mcrid00000213
+usrid00002915,mctid006,Lost Tracking,mcrid00000214
+usrid00002923,mctid006,Recoverd,mcrid00000215
+usrid00002930,mctid001,Lost Tracking,mcrid00000216
+usrid00002938,mctid008,Recoverd,mcrid00000217
+usrid00002967,mctid001,Recoverd,mcrid00000218
+usrid00002999,mctid008,Recoverd,mcrid00000219
+usrid00003034,mctid005,Lost Tracking,mcrid00000220
+usrid00003039,mctid009,Recoverd,mcrid00000221
+usrid00003057,mctid005,Lost Tracking,mcrid00000222
+usrid00003076,mctid006,Recoverd,mcrid00000223
+usrid00003110,mctid003,Recoverd,mcrid00000224
+usrid00003118,mctid005,Recoverd,mcrid00000225
+usrid00003140,mctid009,Recoverd,mcrid00000226
+usrid00003148,mctid007,Recoverd,mcrid00000227
+usrid00003152,mctid006,Lost Tracking,mcrid00000228
+usrid00003179,mctid006,Lost Tracking,mcrid00000229
+usrid00003190,mctid006,Lost Tracking,mcrid00000230
+usrid00003212,mctid005,Lost Tracking,mcrid00000231
+usrid00003239,mctid008,Lost Tracking,mcrid00000232
+usrid00003256,mctid008,Lost Tracking,mcrid00000233
+usrid00003257,mctid005,Recoverd,mcrid00000234
+usrid00003258,mctid006,Recoverd,mcrid00000235
+usrid00003262,mctid005,Recoverd,mcrid00000236
+usrid00003279,mctid008,Recoverd,mcrid00000237
+usrid00003287,mctid006,Recoverd,mcrid00000238
+usrid00003302,mctid002,Recoverd,mcrid00000239
+usrid00003330,mctid001,Recoverd,mcrid00000240
+usrid00003338,mctid007,Recoverd,mcrid00000241
+usrid00003339,mctid007,Recoverd,mcrid00000242
+usrid00003344,mctid006,Recoverd,mcrid00000243
+usrid00003378,mctid006,Lost Tracking,mcrid00000244
+usrid00003380,mctid006,Recoverd,mcrid00000245
+usrid00003385,mctid005,Death,mcrid00000246
+usrid00003427,mctid007,Recoverd,mcrid00000247
+usrid00003474,mctid005,Recoverd,mcrid00000248
+usrid00003512,mctid005,Recoverd,mcrid00000249
+usrid00003515,mctid006,Recoverd,mcrid00000250
+usrid00003519,mctid008,Recoverd,mcrid00000251
+usrid00003529,mctid005,Lost Tracking,mcrid00000252
+usrid00003611,mctid008,Lost Tracking,mcrid00000253
+usrid00003630,mctid006,Recoverd,mcrid00000254
+usrid00003635,mctid007,Death,mcrid00000255
+usrid00003654,mctid008,Recoverd,mcrid00000256
+usrid00003700,mctid006,Recoverd,mcrid00000257
+usrid00003765,mctid006,Recoverd,mcrid00000258
+usrid00003770,mctid005,Recoverd,mcrid00000259
+usrid00003780,mctid008,Lost Tracking,mcrid00000260
+usrid00003783,mctid004,Lost Tracking,mcrid00000261
+usrid00003801,mctid005,Recoverd,mcrid00000262
+usrid00003821,mctid005,Lost Tracking,mcrid00000263
+usrid00003840,mctid006,Recoverd,mcrid00000264
+usrid00003856,mctid008,Recoverd,mcrid00000265
+usrid00003872,mctid009,Recoverd,mcrid00000266
+usrid00003876,mctid001,Recoverd,mcrid00000267
+usrid00003882,mctid006,Recoverd,mcrid00000268
+usrid00003899,mctid008,Lost Tracking,mcrid00000269
+usrid00003913,mctid005,Recoverd,mcrid00000270
+usrid00003937,mctid008,Lost Tracking,mcrid00000271
+usrid00004019,mctid006,Lost Tracking,mcrid00000272
+usrid00004025,mctid006,Lost Tracking,mcrid00000273
+usrid00004027,mctid006,Death,mcrid00000274
+usrid00004028,mctid006,Lost Tracking,mcrid00000275
+usrid00004056,mctid001,Lost Tracking,mcrid00000276
+usrid00004119,mctid002,Recoverd,mcrid00000277
+usrid00004127,mctid004,Lost Tracking,mcrid00000278
+usrid00004138,mctid006,Lost Tracking,mcrid00000279
+usrid00004148,mctid006,Lost Tracking,mcrid00000280
+usrid00004158,mctid006,Lost Tracking,mcrid00000281
+usrid00004225,mctid009,Lost Tracking,mcrid00000282
+usrid00004245,mctid006,Recoverd,mcrid00000283
+usrid00004248,mctid004,Recoverd,mcrid00000284
+usrid00004277,mctid006,Lost Tracking,mcrid00000285
+usrid00004302,mctid006,Recoverd,mcrid00000286
+usrid00004307,mctid002,Lost Tracking,mcrid00000287
+usrid00004313,mctid006,Death,mcrid00000288
+usrid00004326,mctid005,Lost Tracking,mcrid00000289
+usrid00004327,mctid006,Recoverd,mcrid00000290
+usrid00004333,mctid004,Recoverd,mcrid00000291
+usrid00004349,mctid002,Recoverd,mcrid00000292
+usrid00004371,mctid006,Lost Tracking,mcrid00000293
+usrid00004406,mctid006,Recoverd,mcrid00000294
+usrid00004409,mctid006,Recoverd,mcrid00000295
+usrid00004420,mctid001,Recoverd,mcrid00000296
+usrid00004461,mctid005,Recoverd,mcrid00000297
+usrid00004496,mctid005,Recoverd,mcrid00000298
+usrid00004509,mctid001,Recoverd,mcrid00000299
+usrid00004579,mctid005,Recoverd,mcrid00000300
+usrid00004587,mctid008,Recoverd,mcrid00000301
+usrid00004610,mctid006,Recoverd,mcrid00000302
+usrid00004624,mctid006,Recoverd,mcrid00000303
+usrid00004674,mctid001,Recoverd,mcrid00000304
+usrid00004676,mctid008,Recoverd,mcrid00000305
+usrid00004719,mctid006,Death,mcrid00000306
+usrid00004763,mctid005,Recoverd,mcrid00000307
+usrid00004768,mctid008,Lost Tracking,mcrid00000308
+usrid00004775,mctid001,Death,mcrid00000309
+usrid00004803,mctid001,Recoverd,mcrid00000310
+usrid00004825,mctid007,Recoverd,mcrid00000311
+usrid00004842,mctid006,Recoverd,mcrid00000312
+usrid00004883,mctid002,Recoverd,mcrid00000313
+usrid00004889,mctid006,Recoverd,mcrid00000314
+usrid00004890,mctid007,Lost Tracking,mcrid00000315
+usrid00004921,mctid005,Recoverd,mcrid00000316
+usrid00004945,mctid008,Recoverd,mcrid00000317
+usrid00004948,mctid009,Recoverd,mcrid00000318
+usrid00004961,mctid001,Recoverd,mcrid00000319
+usrid00004962,mctid006,Recoverd,mcrid00000320
+usrid00004979,mctid006,Recoverd,mcrid00000321
+usrid00004993,mctid008,Recoverd,mcrid00000322
+usrid00005030,mctid008,Recoverd,mcrid00000323
+usrid00005080,mctid009,Lost Tracking,mcrid00000324
+usrid00005093,mctid001,Lost Tracking,mcrid00000325
+usrid00005113,mctid006,Lost Tracking,mcrid00000326
+usrid00005132,mctid002,Lost Tracking,mcrid00000327
+usrid00005207,mctid009,Lost Tracking,mcrid00000328
+usrid00005209,mctid001,Recoverd,mcrid00000329
+usrid00005213,mctid002,Lost Tracking,mcrid00000330
+usrid00005230,mctid002,Recoverd,mcrid00000331
+usrid00005235,mctid006,Lost Tracking,mcrid00000332
+usrid00005240,mctid005,Recoverd,mcrid00000333
+usrid00005243,mctid009,Recoverd,mcrid00000334
+usrid00005255,mctid001,Lost Tracking,mcrid00000335
+usrid00005321,mctid005,Recoverd,mcrid00000336
+usrid00005326,mctid007,Lost Tracking,mcrid00000337
+usrid00005442,mctid005,Lost Tracking,mcrid00000338
+usrid00005454,mctid006,Recoverd,mcrid00000339
+usrid00005472,mctid001,Lost Tracking,mcrid00000340
+usrid00005510,mctid008,Recoverd,mcrid00000341
+usrid00005524,mctid002,Recoverd,mcrid00000342
+usrid00005550,mctid001,Recoverd,mcrid00000343
+usrid00005551,mctid008,Recoverd,mcrid00000344
+usrid00005553,mctid005,Lost Tracking,mcrid00000345
+usrid00005566,mctid001,Recoverd,mcrid00000346
+usrid00005572,mctid008,Recoverd,mcrid00000347
+usrid00005612,mctid006,Recoverd,mcrid00000348
+usrid00005627,mctid001,Lost Tracking,mcrid00000349
+usrid00005668,mctid002,Lost Tracking,mcrid00000350
+usrid00005677,mctid006,Recoverd,mcrid00000351
+usrid00005704,mctid007,Lost Tracking,mcrid00000352
+usrid00005711,mctid006,Recoverd,mcrid00000353
+usrid00005712,mctid005,Lost Tracking,mcrid00000354
+usrid00005732,mctid008,Recoverd,mcrid00000355
+usrid00005757,mctid006,Recoverd,mcrid00000356
+usrid00005777,mctid002,Recoverd,mcrid00000357
+usrid00005785,mctid003,Lost Tracking,mcrid00000358
+usrid00005800,mctid005,Recoverd,mcrid00000359
+usrid00005883,mctid005,Recoverd,mcrid00000360
+usrid00005884,mctid004,Recoverd,mcrid00000361
+usrid00005910,mctid009,Recoverd,mcrid00000362
+usrid00005948,mctid002,Recoverd,mcrid00000363
+usrid00005960,mctid002,Recoverd,mcrid00000364
+usrid00005980,mctid006,Recoverd,mcrid00000365
+usrid00005987,mctid005,Recoverd,mcrid00000366
+usrid00006006,mctid006,Recoverd,mcrid00000367
+usrid00006012,mctid005,Death,mcrid00000368
+usrid00006083,mctid008,Recoverd,mcrid00000369
+usrid00006088,mctid002,Recoverd,mcrid00000370
+usrid00006151,mctid005,Recoverd,mcrid00000371
+usrid00006155,mctid002,Recoverd,mcrid00000372
+usrid00006172,mctid003,Recoverd,mcrid00000373
+usrid00006212,mctid002,Recoverd,mcrid00000374
+usrid00006217,mctid004,Death,mcrid00000375
+usrid00006222,mctid008,Recoverd,mcrid00000376
+usrid00006252,mctid005,Lost Tracking,mcrid00000377
+usrid00006262,mctid006,Recoverd,mcrid00000378
+usrid00006296,mctid006,Lost Tracking,mcrid00000379
+usrid00006321,mctid007,Lost Tracking,mcrid00000380
+usrid00006388,mctid005,Recoverd,mcrid00000381
+usrid00006393,mctid006,Death,mcrid00000382
+usrid00006404,mctid005,Lost Tracking,mcrid00000383
+usrid00006440,mctid009,Recoverd,mcrid00000384
+usrid00006465,mctid005,Recoverd,mcrid00000385
+usrid00006467,mctid004,Recoverd,mcrid00000386
+usrid00006473,mctid006,Death,mcrid00000387
+usrid00006496,mctid002,Lost Tracking,mcrid00000388
+usrid00006506,mctid008,Lost Tracking,mcrid00000389
+usrid00006507,mctid008,Lost Tracking,mcrid00000390
+usrid00006510,mctid002,Recoverd,mcrid00000391
+usrid00006539,mctid006,Lost Tracking,mcrid00000392
+usrid00006548,mctid007,Recoverd,mcrid00000393
+usrid00006564,mctid001,Lost Tracking,mcrid00000394
+usrid00006591,mctid005,Recoverd,mcrid00000395
+usrid00006620,mctid008,Recoverd,mcrid00000396
+usrid00006700,mctid004,Recoverd,mcrid00000397
+usrid00006810,mctid004,Lost Tracking,mcrid00000398
+usrid00006814,mctid005,Recoverd,mcrid00000399
+usrid00006844,mctid005,Lost Tracking,mcrid00000400
+usrid00006846,mctid006,Lost Tracking,mcrid00000401
+usrid00006862,mctid006,Lost Tracking,mcrid00000402
+usrid00006899,mctid006,Recoverd,mcrid00000403
+usrid00006911,mctid008,Recoverd,mcrid00000404
+usrid00006917,mctid002,Recoverd,mcrid00000405
+usrid00006930,mctid005,Recoverd,mcrid00000406
+usrid00006958,mctid005,Recoverd,mcrid00000407
+usrid00006959,mctid006,Recoverd,mcrid00000408
+usrid00006964,mctid009,Lost Tracking,mcrid00000409
+usrid00006985,mctid007,Lost Tracking,mcrid00000410
+usrid00007002,mctid001,Recoverd,mcrid00000411
+usrid00007028,mctid008,Recoverd,mcrid00000412
+usrid00007036,mctid005,Recoverd,mcrid00000413
+usrid00007048,mctid005,Lost Tracking,mcrid00000414
+usrid00007109,mctid002,Recoverd,mcrid00000415
+usrid00007119,mctid008,Recoverd,mcrid00000416
+usrid00007184,mctid005,Lost Tracking,mcrid00000417
+usrid00007197,mctid006,Recoverd,mcrid00000418
+usrid00007272,mctid005,Lost Tracking,mcrid00000419
+usrid00007286,mctid008,Recoverd,mcrid00000420
+usrid00007312,mctid001,Death,mcrid00000421
+usrid00007325,mctid008,Recoverd,mcrid00000422
+usrid00007393,mctid001,Recoverd,mcrid00000423
+usrid00007424,mctid003,Death,mcrid00000424
+usrid00007436,mctid001,Lost Tracking,mcrid00000425
+usrid00007454,mctid004,Recoverd,mcrid00000426
+usrid00007457,mctid006,Recoverd,mcrid00000427
+usrid00007490,mctid005,Recoverd,mcrid00000428
+usrid00007499,mctid008,Recoverd,mcrid00000429
+usrid00007514,mctid005,Recoverd,mcrid00000430
+usrid00007517,mctid006,Death,mcrid00000431
+usrid00007533,mctid007,Lost Tracking,mcrid00000432
+usrid00007548,mctid006,Recoverd,mcrid00000433
+usrid00007572,mctid005,Recoverd,mcrid00000434
+usrid00007613,mctid006,Lost Tracking,mcrid00000435
+usrid00007641,mctid002,Recoverd,mcrid00000436
+usrid00007651,mctid002,Lost Tracking,mcrid00000437
+usrid00007690,mctid002,Recoverd,mcrid00000438
+usrid00007698,mctid007,Recoverd,mcrid00000439
+usrid00007715,mctid008,Recoverd,mcrid00000440
+usrid00007734,mctid008,Recoverd,mcrid00000441
+usrid00007738,mctid005,Recoverd,mcrid00000442
+usrid00007750,mctid006,Lost Tracking,mcrid00000443
+usrid00007814,mctid006,Recoverd,mcrid00000444
+usrid00007823,mctid002,Recoverd,mcrid00000445
+usrid00007849,mctid006,Lost Tracking,mcrid00000446
+usrid00007860,mctid003,Lost Tracking,mcrid00000447
+usrid00007869,mctid008,Recoverd,mcrid00000448
+usrid00007884,mctid006,Lost Tracking,mcrid00000449
+usrid00007955,mctid006,Recoverd,mcrid00000450
+usrid00008009,mctid006,Lost Tracking,mcrid00000451
+usrid00008027,mctid009,Recoverd,mcrid00000452
+usrid00008029,mctid004,Recoverd,mcrid00000453
+usrid00008061,mctid005,Recoverd,mcrid00000454
+usrid00008078,mctid005,Lost Tracking,mcrid00000455
+usrid00008129,mctid005,Recoverd,mcrid00000456
+usrid00008152,mctid009,Recoverd,mcrid00000457
+usrid00008154,mctid005,Lost Tracking,mcrid00000458
+usrid00008169,mctid008,Recoverd,mcrid00000459
+usrid00008195,mctid002,Lost Tracking,mcrid00000460
+usrid00008214,mctid006,Death,mcrid00000461
+usrid00008281,mctid005,Recoverd,mcrid00000462
+usrid00008308,mctid007,Lost Tracking,mcrid00000463
+usrid00008310,mctid006,Recoverd,mcrid00000464
+usrid00008363,mctid001,Lost Tracking,mcrid00000465
+usrid00008378,mctid001,Recoverd,mcrid00000466
+usrid00008408,mctid001,Lost Tracking,mcrid00000467
+usrid00008411,mctid002,Recoverd,mcrid00000468
+usrid00008432,mctid005,Lost Tracking,mcrid00000469
+usrid00008501,mctid006,Lost Tracking,mcrid00000470
+usrid00008541,mctid006,Lost Tracking,mcrid00000471
+usrid00008547,mctid005,Lost Tracking,mcrid00000472
+usrid00008592,mctid008,Recoverd,mcrid00000473
+usrid00008599,mctid006,Recoverd,mcrid00000474
+usrid00008609,mctid006,Recoverd,mcrid00000475
+usrid00008642,mctid006,Death,mcrid00000476
+usrid00008664,mctid002,Recoverd,mcrid00000477
+usrid00008715,mctid002,Lost Tracking,mcrid00000478
+usrid00008760,mctid006,Lost Tracking,mcrid00000479
+usrid00008813,mctid002,Recoverd,mcrid00000480
+usrid00008819,mctid008,Lost Tracking,mcrid00000481
+usrid00008831,mctid005,Recoverd,mcrid00000482
+usrid00008886,mctid008,Recoverd,mcrid00000483
+usrid00008911,mctid008,Recoverd,mcrid00000484
+usrid00008939,mctid008,Recoverd,mcrid00000485
+usrid00009021,mctid006,Recoverd,mcrid00000486
+usrid00009025,mctid005,Lost Tracking,mcrid00000487
+usrid00009078,mctid001,Lost Tracking,mcrid00000488
+usrid00009086,mctid006,Recoverd,mcrid00000489
+usrid00009114,mctid008,Recoverd,mcrid00000490
+usrid00009146,mctid005,Recoverd,mcrid00000491
+usrid00009163,mctid006,Recoverd,mcrid00000492
+usrid00009246,mctid006,Recoverd,mcrid00000493
+usrid00009254,mctid001,Recoverd,mcrid00000494
+usrid00009258,mctid006,Death,mcrid00000495
+usrid00009302,mctid006,Recoverd,mcrid00000496
+usrid00009324,mctid009,Lost Tracking,mcrid00000497
+usrid00009325,mctid006,Recoverd,mcrid00000498
+usrid00009460,mctid008,Lost Tracking,mcrid00000499
+usrid00009473,mctid005,Recoverd,mcrid00000500
+usrid00009479,mctid005,Recoverd,mcrid00000501
+usrid00009492,mctid005,Lost Tracking,mcrid00000502
+usrid00009514,mctid008,Death,mcrid00000503
+usrid00009538,mctid005,Lost Tracking,mcrid00000504
+usrid00009567,mctid006,Recoverd,mcrid00000505
+usrid00009574,mctid006,Death,mcrid00000506
+usrid00009590,mctid007,Recoverd,mcrid00000507
+usrid00009600,mctid008,Recoverd,mcrid00000508
+usrid00009655,mctid008,Lost Tracking,mcrid00000509
+usrid00009658,mctid005,Death,mcrid00000510
+usrid00009720,mctid006,Recoverd,mcrid00000511
+usrid00009722,mctid006,Recoverd,mcrid00000512
+usrid00009764,mctid008,Recoverd,mcrid00000513
+usrid00009805,mctid005,Lost Tracking,mcrid00000514
+usrid00009882,mctid004,Death,mcrid00000515
+usrid00009914,mctid006,Lost Tracking,mcrid00000516
+usrid00009924,mctid006,Recoverd,mcrid00000517
+usrid00009944,mctid007,Recoverd,mcrid00000518
+usrid00009951,mctid006,Recoverd,mcrid00000519
+usrid00009962,mctid005,Recoverd,mcrid00000520
+usrid00009985,mctid005,Recoverd,mcrid00000521
+usrid00009991,mctid006,Lost Tracking,mcrid00000522
+usrid00010017,mctid006,Recoverd,mcrid00000523
+usrid00010037,mctid002,Death,mcrid00000524
+usrid00010076,mctid005,Recoverd,mcrid00000525
+usrid00010162,mctid001,Lost Tracking,mcrid00000526
+usrid00010174,mctid006,Recoverd,mcrid00000527
+usrid00010190,mctid009,Recoverd,mcrid00000528
+usrid00010254,mctid005,Recoverd,mcrid00000529
+usrid00010272,mctid006,Recoverd,mcrid00000530
+usrid00010318,mctid005,Lost Tracking,mcrid00000531
+usrid00010344,mctid001,Recoverd,mcrid00000532
+usrid00010346,mctid008,Recoverd,mcrid00000533
+usrid00010357,mctid006,Recoverd,mcrid00000534
+usrid00010370,mctid006,Recoverd,mcrid00000535
+usrid00010388,mctid009,Death,mcrid00000536
+usrid00010406,mctid002,Lost Tracking,mcrid00000537
+usrid00010408,mctid006,Recoverd,mcrid00000538
+usrid00010427,mctid006,Lost Tracking,mcrid00000539
+usrid00010461,mctid009,Death,mcrid00000540
+usrid00010529,mctid006,Lost Tracking,mcrid00000541
+usrid00010615,mctid001,Recoverd,mcrid00000542
+usrid00010630,mctid005,Lost Tracking,mcrid00000543
+usrid00010652,mctid006,Recoverd,mcrid00000544
+usrid00010712,mctid005,Recoverd,mcrid00000545
+usrid00010759,mctid001,Recoverd,mcrid00000546
+usrid00010859,mctid005,Lost Tracking,mcrid00000547
+usrid00010916,mctid004,Lost Tracking,mcrid00000548
+usrid00010958,mctid006,Recoverd,mcrid00000549
+usrid00010963,mctid005,Recoverd,mcrid00000550
+usrid00010997,mctid006,Recoverd,mcrid00000551
+usrid00011024,mctid002,Lost Tracking,mcrid00000552
+usrid00011041,mctid006,Lost Tracking,mcrid00000553
+usrid00011089,mctid006,Recoverd,mcrid00000554
+usrid00011107,mctid003,Recoverd,mcrid00000555
+usrid00011129,mctid005,Recoverd,mcrid00000556
+usrid00011164,mctid001,Recoverd,mcrid00000557
+usrid00011172,mctid001,Recoverd,mcrid00000558
+usrid00011273,mctid006,Lost Tracking,mcrid00000559
+usrid00011275,mctid002,Lost Tracking,mcrid00000560
+usrid00011368,mctid006,Lost Tracking,mcrid00000561
+usrid00011381,mctid006,Recoverd,mcrid00000562
+usrid00011384,mctid002,Lost Tracking,mcrid00000563
+usrid00011392,mctid006,Recoverd,mcrid00000564
+usrid00011464,mctid001,Lost Tracking,mcrid00000565
+usrid00011495,mctid006,Death,mcrid00000566
+usrid00011663,mctid008,Recoverd,mcrid00000567
+usrid00011673,mctid006,Recoverd,mcrid00000568
+usrid00011731,mctid005,Lost Tracking,mcrid00000569
+usrid00011796,mctid006,Recoverd,mcrid00000570
+usrid00011824,mctid006,Recoverd,mcrid00000571
+usrid00011946,mctid006,Recoverd,mcrid00000572
+usrid00012005,mctid005,Recoverd,mcrid00000573
+usrid00012017,mctid005,Lost Tracking,mcrid00000574
+usrid00012053,mctid005,Recoverd,mcrid00000575
+usrid00012071,mctid008,Recoverd,mcrid00000576
+usrid00012076,mctid002,Recoverd,mcrid00000577
+usrid00012084,mctid008,Recoverd,mcrid00000578
+usrid00012109,mctid008,Lost Tracking,mcrid00000579
+usrid00012133,mctid005,Recoverd,mcrid00000580
+usrid00012148,mctid006,Lost Tracking,mcrid00000581
+usrid00012194,mctid009,Recoverd,mcrid00000582
+usrid00012212,mctid008,Recoverd,mcrid00000583
+usrid00012233,mctid001,Lost Tracking,mcrid00000584
+usrid00012281,mctid009,Recoverd,mcrid00000585
+usrid00012396,mctid006,Death,mcrid00000586
+usrid00012415,mctid005,Recoverd,mcrid00000587
+usrid00012465,mctid006,Lost Tracking,mcrid00000588
+usrid00012469,mctid005,Lost Tracking,mcrid00000589
+usrid00012550,mctid009,Lost Tracking,mcrid00000590
+usrid00012577,mctid001,Recoverd,mcrid00000591
+usrid00012580,mctid006,Recoverd,mcrid00000592
+usrid00012589,mctid006,Recoverd,mcrid00000593
+usrid00012703,mctid008,Recoverd,mcrid00000594
+usrid00012755,mctid001,Recoverd,mcrid00000595
+usrid00012809,mctid003,Recoverd,mcrid00000596
+usrid00012841,mctid008,Lost Tracking,mcrid00000597
+usrid00012984,mctid001,Lost Tracking,mcrid00000598
+usrid00013005,mctid009,Lost Tracking,mcrid00000599
+usrid00013020,mctid001,Recoverd,mcrid00000600
+usrid00013082,mctid005,Recoverd,mcrid00000601
+usrid00013122,mctid005,Recoverd,mcrid00000602
+usrid00013194,mctid002,Recoverd,mcrid00000603
+usrid00013322,mctid008,Recoverd,mcrid00000604
+usrid00013369,mctid005,Recoverd,mcrid00000605
+usrid00013379,mctid003,Recoverd,mcrid00000606
+usrid00013518,mctid002,Recoverd,mcrid00000607
+usrid00013539,mctid002,Lost Tracking,mcrid00000608
+usrid00013555,mctid005,Lost Tracking,mcrid00000609
+usrid00013560,mctid005,Recoverd,mcrid00000610
+usrid00013579,mctid006,Recoverd,mcrid00000611
+usrid00013587,mctid006,Recoverd,mcrid00000612
+usrid00013616,mctid005,Recoverd,mcrid00000613
+usrid00013621,mctid009,Recoverd,mcrid00000614
+usrid00013625,mctid008,Death,mcrid00000615
+usrid00013666,mctid006,Lost Tracking,mcrid00000616
+usrid00013690,mctid007,Recoverd,mcrid00000617
+usrid00013723,mctid005,Recoverd,mcrid00000618
+usrid00013838,mctid002,Lost Tracking,mcrid00000619
+usrid00013871,mctid007,Recoverd,mcrid00000620
+usrid00013960,mctid006,Recoverd,mcrid00000621
+usrid00013999,mctid006,Recoverd,mcrid00000622
+usrid00014019,mctid001,Recoverd,mcrid00000623
+usrid00014038,mctid008,Recoverd,mcrid00000624
+usrid00014045,mctid006,Recoverd,mcrid00000625
+usrid00014098,mctid006,Recoverd,mcrid00000626
+usrid00014126,mctid001,Recoverd,mcrid00000627
+usrid00014170,mctid007,Recoverd,mcrid00000628
+usrid00014182,mctid001,Recoverd,mcrid00000629
+usrid00014194,mctid006,Recoverd,mcrid00000630
+usrid00014264,mctid008,Recoverd,mcrid00000631
+usrid00014359,mctid008,Recoverd,mcrid00000632
+usrid00014402,mctid006,Recoverd,mcrid00000633
+usrid00014425,mctid005,Lost Tracking,mcrid00000634
+usrid00014560,mctid005,Lost Tracking,mcrid00000635
+usrid00014567,mctid002,Recoverd,mcrid00000636
+usrid00014572,mctid001,Lost Tracking,mcrid00000637
+usrid00014599,mctid002,Recoverd,mcrid00000638
+usrid00014623,mctid007,Recoverd,mcrid00000639
+usrid00014627,mctid006,Recoverd,mcrid00000640
+usrid00014638,mctid006,Recoverd,mcrid00000641
+usrid00014669,mctid008,Recoverd,mcrid00000642
+usrid00014744,mctid006,Death,mcrid00000643
+usrid00014778,mctid005,Recoverd,mcrid00000644
+usrid00014801,mctid005,Death,mcrid00000645
+usrid00014806,mctid004,Recoverd,mcrid00000646
+usrid00014949,mctid001,Recoverd,mcrid00000647
+usrid00014952,mctid007,Recoverd,mcrid00000648
+usrid00015007,mctid008,Recoverd,mcrid00000649
+usrid00015097,mctid008,Lost Tracking,mcrid00000650
+usrid00015101,mctid007,Recoverd,mcrid00000651
+usrid00015111,mctid009,Recoverd,mcrid00000652
+usrid00015122,mctid001,Lost Tracking,mcrid00000653
+usrid00015190,mctid008,Recoverd,mcrid00000654
+usrid00015247,mctid009,Recoverd,mcrid00000655
+usrid00015254,mctid002,Lost Tracking,mcrid00000656
+usrid00015301,mctid009,Death,mcrid00000657
+usrid00015330,mctid006,Lost Tracking,mcrid00000658
+usrid00015431,mctid008,Recoverd,mcrid00000659
+usrid00015445,mctid001,Recoverd,mcrid00000660
+usrid00015462,mctid008,Recoverd,mcrid00000661
+usrid00015466,mctid005,Recoverd,mcrid00000662
+usrid00015470,mctid001,Recoverd,mcrid00000663
+usrid00015531,mctid005,Lost Tracking,mcrid00000664
+usrid00015622,mctid001,Lost Tracking,mcrid00000665
+usrid00015655,mctid005,Lost Tracking,mcrid00000666
+usrid00015711,mctid005,Death,mcrid00000667
+usrid00015748,mctid008,Lost Tracking,mcrid00000668
+usrid00015817,mctid006,Recoverd,mcrid00000669
+usrid00015962,mctid007,Lost Tracking,mcrid00000670
+usrid00015969,mctid005,Recoverd,mcrid00000671
+usrid00015984,mctid008,Lost Tracking,mcrid00000672
+usrid00016161,mctid008,Lost Tracking,mcrid00000673
+usrid00016164,mctid008,Recoverd,mcrid00000674
+usrid00016172,mctid007,Recoverd,mcrid00000675
+usrid00016189,mctid007,Recoverd,mcrid00000676
+usrid00016247,mctid005,Recoverd,mcrid00000677
+usrid00016249,mctid007,Lost Tracking,mcrid00000678
+usrid00016336,mctid009,Recoverd,mcrid00000679
+usrid00016361,mctid006,Recoverd,mcrid00000680
+usrid00016376,mctid008,Lost Tracking,mcrid00000681
+usrid00016416,mctid006,Recoverd,mcrid00000682
+usrid00016470,mctid005,Recoverd,mcrid00000683
+usrid00016502,mctid005,Lost Tracking,mcrid00000684
+usrid00016631,mctid005,Lost Tracking,mcrid00000685
+usrid00016651,mctid006,Recoverd,mcrid00000686
+usrid00016662,mctid002,Recoverd,mcrid00000687
+usrid00016793,mctid007,Recoverd,mcrid00000688
+usrid00016841,mctid006,Lost Tracking,mcrid00000689
+usrid00016844,mctid009,Lost Tracking,mcrid00000690
+usrid00016847,mctid004,Recoverd,mcrid00000691
+usrid00016853,mctid006,Recoverd,mcrid00000692
+usrid00016864,mctid007,Lost Tracking,mcrid00000693
+usrid00016886,mctid006,Death,mcrid00000694
+usrid00016918,mctid001,Lost Tracking,mcrid00000695
+usrid00016947,mctid009,Recoverd,mcrid00000696
+usrid00016987,mctid002,Death,mcrid00000697
+usrid00017110,mctid001,Recoverd,mcrid00000698
+usrid00017158,mctid009,Recoverd,mcrid00000699
+usrid00017249,mctid008,Recoverd,mcrid00000700
+usrid00017263,mctid005,Recoverd,mcrid00000701
+usrid00017312,mctid007,Recoverd,mcrid00000702
+usrid00017356,mctid005,Lost Tracking,mcrid00000703
+usrid00017377,mctid006,Recoverd,mcrid00000704
+usrid00017391,mctid003,Recoverd,mcrid00000705
+usrid00017392,mctid002,Lost Tracking,mcrid00000706
+usrid00017476,mctid006,Recoverd,mcrid00000707
+usrid00017487,mctid001,Recoverd,mcrid00000708
+usrid00017492,mctid005,Recoverd,mcrid00000709
+usrid00017578,mctid002,Lost Tracking,mcrid00000710
+usrid00017775,mctid009,Lost Tracking,mcrid00000711
+usrid00017778,mctid008,Lost Tracking,mcrid00000712
+usrid00017824,mctid006,Recoverd,mcrid00000713
+usrid00017841,mctid003,Lost Tracking,mcrid00000714
+usrid00017851,mctid004,Lost Tracking,mcrid00000715
+usrid00017902,mctid005,Lost Tracking,mcrid00000716
+usrid00017944,mctid006,Lost Tracking,mcrid00000717
+usrid00017960,mctid008,Lost Tracking,mcrid00000718
+usrid00017984,mctid005,Recoverd,mcrid00000719
+usrid00018049,mctid005,Recoverd,mcrid00000720
+usrid00018105,mctid006,Death,mcrid00000721
+usrid00018121,mctid005,Recoverd,mcrid00000722
+usrid00018127,mctid009,Death,mcrid00000723
+usrid00018200,mctid006,Recoverd,mcrid00000724
+usrid00018235,mctid006,Recoverd,mcrid00000725
+usrid00018404,mctid008,Recoverd,mcrid00000726
+usrid00018425,mctid005,Recoverd,mcrid00000727
+usrid00018456,mctid008,Recoverd,mcrid00000728
+usrid00018649,mctid008,Lost Tracking,mcrid00000729
+usrid00018654,mctid006,Recoverd,mcrid00000730
+usrid00018663,mctid005,Recoverd,mcrid00000731
+usrid00018731,mctid003,Recoverd,mcrid00000732
+usrid00018740,mctid005,Recoverd,mcrid00000733
+usrid00018763,mctid001,Lost Tracking,mcrid00000734
+usrid00018803,mctid003,Recoverd,mcrid00000735
+usrid00018819,mctid006,Lost Tracking,mcrid00000736
+usrid00018834,mctid003,Death,mcrid00000737
+usrid00018905,mctid009,Recoverd,mcrid00000738
+usrid00018925,mctid005,Recoverd,mcrid00000739
+usrid00018942,mctid005,Recoverd,mcrid00000740
+usrid00018972,mctid006,Lost Tracking,mcrid00000741
+usrid00018974,mctid002,Lost Tracking,mcrid00000742
+usrid00018986,mctid001,Recoverd,mcrid00000743
+usrid00019013,mctid005,Recoverd,mcrid00000744
+usrid00019024,mctid005,Lost Tracking,mcrid00000745
+usrid00019086,mctid008,Recoverd,mcrid00000746
+usrid00019099,mctid002,Recoverd,mcrid00000747
+usrid00019107,mctid008,Recoverd,mcrid00000748
+usrid00019142,mctid001,Recoverd,mcrid00000749
+usrid00019217,mctid006,Recoverd,mcrid00000750
+usrid00019284,mctid006,Recoverd,mcrid00000751
+usrid00019371,mctid006,Lost Tracking,mcrid00000752
+usrid00019595,mctid006,Recoverd,mcrid00000753
+usrid00019757,mctid006,Recoverd,mcrid00000754
+usrid00019816,mctid006,Lost Tracking,mcrid00000755
+usrid00019867,mctid006,Lost Tracking,mcrid00000756
+usrid00019904,mctid001,Recoverd,mcrid00000757
+usrid00019921,mctid005,Recoverd,mcrid00000758
+usrid00019926,mctid006,Recoverd,mcrid00000759
+usrid00019944,mctid006,Lost Tracking,mcrid00000760
+usrid00019968,mctid007,Recoverd,mcrid00000761
+usrid00019969,mctid006,Recoverd,mcrid00000762
+usrid00020012,mctid002,Recoverd,mcrid00000763
+usrid00020033,mctid004,Recoverd,mcrid00000764
+usrid00020061,mctid008,Recoverd,mcrid00000765
+usrid00020095,mctid006,Recoverd,mcrid00000766
+usrid00020100,mctid006,Lost Tracking,mcrid00000767
+usrid00020160,mctid006,Recoverd,mcrid00000768
+usrid00020166,mctid006,Lost Tracking,mcrid00000769
+usrid00020174,mctid006,Recoverd,mcrid00000770
+usrid00020217,mctid007,Lost Tracking,mcrid00000771
+usrid00020248,mctid008,Lost Tracking,mcrid00000772
+usrid00020293,mctid005,Lost Tracking,mcrid00000773
+usrid00020321,mctid006,Recoverd,mcrid00000774
+usrid00020323,mctid008,Recoverd,mcrid00000775
+usrid00020325,mctid007,Lost Tracking,mcrid00000776
+usrid00020368,mctid006,Recoverd,mcrid00000777
+usrid00020389,mctid006,Lost Tracking,mcrid00000778
+usrid00020423,mctid005,Recoverd,mcrid00000779
+usrid00020469,mctid001,Recoverd,mcrid00000780
+usrid00020517,mctid008,Lost Tracking,mcrid00000781
+usrid00020534,mctid005,Lost Tracking,mcrid00000782
+usrid00020550,mctid006,Recoverd,mcrid00000783
+usrid00020553,mctid006,Recoverd,mcrid00000784
+usrid00020569,mctid006,Recoverd,mcrid00000785
+usrid00020576,mctid001,Lost Tracking,mcrid00000786
+usrid00020636,mctid005,Lost Tracking,mcrid00000787
+usrid00020684,mctid006,Recoverd,mcrid00000788
+usrid00020706,mctid009,Lost Tracking,mcrid00000789
+usrid00020733,mctid007,Recoverd,mcrid00000790
+usrid00020753,mctid006,Recoverd,mcrid00000791
+usrid00020846,mctid007,Death,mcrid00000792
+usrid00020902,mctid006,Recoverd,mcrid00000793
+usrid00020911,mctid001,Recoverd,mcrid00000794
+usrid00020915,mctid005,Recoverd,mcrid00000795
+usrid00021081,mctid001,Lost Tracking,mcrid00000796
+usrid00021179,mctid005,Recoverd,mcrid00000797
+usrid00021184,mctid001,Recoverd,mcrid00000798
+usrid00021191,mctid007,Recoverd,mcrid00000799
+usrid00021271,mctid006,Lost Tracking,mcrid00000800
+usrid00021277,mctid006,Recoverd,mcrid00000801
+usrid00021284,mctid009,Recoverd,mcrid00000802
+usrid00021297,mctid003,Recoverd,mcrid00000803
+usrid00021345,mctid001,Lost Tracking,mcrid00000804
+usrid00021353,mctid004,Recoverd,mcrid00000805
+usrid00021371,mctid006,Recoverd,mcrid00000806
+usrid00021457,mctid006,Lost Tracking,mcrid00000807
+usrid00021509,mctid005,Recoverd,mcrid00000808
+usrid00021520,mctid009,Lost Tracking,mcrid00000809
+usrid00021597,mctid006,Recoverd,mcrid00000810
+usrid00021605,mctid006,Lost Tracking,mcrid00000811
+usrid00021665,mctid006,Lost Tracking,mcrid00000812
+usrid00021730,mctid001,Recoverd,mcrid00000813
+usrid00021748,mctid002,Lost Tracking,mcrid00000814
+usrid00021786,mctid005,Lost Tracking,mcrid00000815
+usrid00021788,mctid008,Recoverd,mcrid00000816
+usrid00021811,mctid008,Lost Tracking,mcrid00000817
+usrid00021872,mctid006,Recoverd,mcrid00000818
+usrid00021976,mctid006,Recoverd,mcrid00000819
+usrid00022000,mctid008,Recoverd,mcrid00000820
+usrid00022032,mctid005,Recoverd,mcrid00000821
+usrid00022053,mctid001,Lost Tracking,mcrid00000822
+usrid00022179,mctid009,Recoverd,mcrid00000823
+usrid00022235,mctid005,Recoverd,mcrid00000824
+usrid00022394,mctid006,Death,mcrid00000825
+usrid00022430,mctid006,Lost Tracking,mcrid00000826
+usrid00022447,mctid006,Lost Tracking,mcrid00000827
+usrid00022521,mctid008,Lost Tracking,mcrid00000828
+usrid00022653,mctid005,Lost Tracking,mcrid00000829
+usrid00022679,mctid001,Recoverd,mcrid00000830
+usrid00022724,mctid005,Lost Tracking,mcrid00000831
+usrid00022727,mctid006,Recoverd,mcrid00000832
+usrid00022739,mctid006,Recoverd,mcrid00000833
+usrid00022741,mctid008,Recoverd,mcrid00000834
+usrid00022839,mctid003,Recoverd,mcrid00000835
+usrid00022840,mctid001,Recoverd,mcrid00000836
+usrid00022951,mctid006,Recoverd,mcrid00000837
+usrid00022988,mctid006,Recoverd,mcrid00000838
+usrid00023102,mctid008,Lost Tracking,mcrid00000839
+usrid00023142,mctid005,Lost Tracking,mcrid00000840
+usrid00023147,mctid002,Recoverd,mcrid00000841
+usrid00023161,mctid001,Death,mcrid00000842
+usrid00023163,mctid006,Recoverd,mcrid00000843
+usrid00023351,mctid005,Lost Tracking,mcrid00000844
+usrid00023359,mctid009,Lost Tracking,mcrid00000845
+usrid00023668,mctid007,Lost Tracking,mcrid00000846
+usrid00023741,mctid006,Recoverd,mcrid00000847
+usrid00023802,mctid008,Lost Tracking,mcrid00000848
+usrid00023907,mctid005,Recoverd,mcrid00000849
+usrid00024093,mctid006,Recoverd,mcrid00000850
+usrid00024248,mctid006,Lost Tracking,mcrid00000851
+usrid00024259,mctid005,Recoverd,mcrid00000852
+usrid00024272,mctid002,Recoverd,mcrid00000853
+usrid00024309,mctid005,Recoverd,mcrid00000854
+usrid00024371,mctid005,Death,mcrid00000855
+usrid00024385,mctid007,Lost Tracking,mcrid00000856
+usrid00024386,mctid005,Recoverd,mcrid00000857
+usrid00024452,mctid002,Recoverd,mcrid00000858
+usrid00024506,mctid002,Recoverd,mcrid00000859
+usrid00024522,mctid005,Lost Tracking,mcrid00000860
+usrid00024609,mctid006,Recoverd,mcrid00000861
+usrid00024630,mctid006,Recoverd,mcrid00000862
+usrid00024649,mctid004,Recoverd,mcrid00000863
+usrid00024777,mctid006,Recoverd,mcrid00000864
+usrid00024781,mctid005,Recoverd,mcrid00000865
+usrid00024854,mctid005,Lost Tracking,mcrid00000866
+usrid00024882,mctid006,Lost Tracking,mcrid00000867
+usrid00024902,mctid006,Recoverd,mcrid00000868
+usrid00024936,mctid008,Recoverd,mcrid00000869
+usrid00024954,mctid006,Death,mcrid00000870
+usrid00025019,mctid006,Recoverd,mcrid00000871
+usrid00025071,mctid008,Lost Tracking,mcrid00000872
+usrid00025086,mctid006,Lost Tracking,mcrid00000873
+usrid00025095,mctid002,Recoverd,mcrid00000874
+usrid00025102,mctid002,Lost Tracking,mcrid00000875
+usrid00025134,mctid005,Lost Tracking,mcrid00000876
+usrid00025208,mctid003,Recoverd,mcrid00000877
+usrid00025309,mctid005,Recoverd,mcrid00000878
+usrid00025344,mctid002,Lost Tracking,mcrid00000879
+usrid00025348,mctid006,Recoverd,mcrid00000880
+usrid00025405,mctid008,Recoverd,mcrid00000881
+usrid00025473,mctid001,Lost Tracking,mcrid00000882
+usrid00025504,mctid008,Lost Tracking,mcrid00000883
+usrid00025544,mctid006,Recoverd,mcrid00000884
+usrid00025599,mctid005,Recoverd,mcrid00000885
+usrid00025677,mctid005,Lost Tracking,mcrid00000886
+usrid00025678,mctid006,Recoverd,mcrid00000887
+usrid00025728,mctid008,Recoverd,mcrid00000888
+usrid00025794,mctid001,Recoverd,mcrid00000889
+usrid00025806,mctid002,Recoverd,mcrid00000890
+usrid00025890,mctid001,Lost Tracking,mcrid00000891
+usrid00025935,mctid006,Lost Tracking,mcrid00000892
+usrid00026082,mctid002,Recoverd,mcrid00000893
+usrid00026089,mctid001,Recoverd,mcrid00000894
+usrid00026122,mctid006,Recoverd,mcrid00000895
+usrid00026152,mctid008,Recoverd,mcrid00000896
+usrid00026228,mctid005,Lost Tracking,mcrid00000897
+usrid00026257,mctid002,Recoverd,mcrid00000898
+usrid00026301,mctid006,Recoverd,mcrid00000899
+usrid00026335,mctid005,Recoverd,mcrid00000900
+usrid00026424,mctid007,Lost Tracking,mcrid00000901
+usrid00026432,mctid002,Recoverd,mcrid00000902
+usrid00026547,mctid004,Recoverd,mcrid00000903
+usrid00026646,mctid009,Recoverd,mcrid00000904
+usrid00026648,mctid005,Recoverd,mcrid00000905
+usrid00026656,mctid005,Recoverd,mcrid00000906
+usrid00026694,mctid009,Recoverd,mcrid00000907
+usrid00026804,mctid006,Recoverd,mcrid00000908
+usrid00026837,mctid005,Lost Tracking,mcrid00000909
+usrid00026864,mctid007,Recoverd,mcrid00000910
+usrid00026907,mctid006,Recoverd,mcrid00000911
+usrid00026934,mctid006,Lost Tracking,mcrid00000912
+usrid00026949,mctid006,Recoverd,mcrid00000913
+usrid00026992,mctid006,Lost Tracking,mcrid00000914
+usrid00027163,mctid006,Death,mcrid00000915
+usrid00027232,mctid006,Recoverd,mcrid00000916
+usrid00027258,mctid005,Recoverd,mcrid00000917
+usrid00027280,mctid002,Lost Tracking,mcrid00000918
+usrid00027308,mctid004,Recoverd,mcrid00000919
+usrid00027321,mctid004,Recoverd,mcrid00000920
+usrid00027355,mctid004,Recoverd,mcrid00000921
+usrid00027359,mctid001,Recoverd,mcrid00000922
+usrid00027487,mctid002,Recoverd,mcrid00000923
+usrid00027498,mctid002,Lost Tracking,mcrid00000924
+usrid00027542,mctid006,Recoverd,mcrid00000925
+usrid00027610,mctid005,Recoverd,mcrid00000926
+usrid00027834,mctid001,Lost Tracking,mcrid00000927
+usrid00027921,mctid005,Lost Tracking,mcrid00000928
+usrid00027929,mctid005,Recoverd,mcrid00000929
+usrid00027958,mctid006,Lost Tracking,mcrid00000930
+usrid00027991,mctid005,Recoverd,mcrid00000931
+usrid00028031,mctid008,Recoverd,mcrid00000932
+usrid00028045,mctid005,Recoverd,mcrid00000933
+usrid00028080,mctid001,Lost Tracking,mcrid00000934
+usrid00028209,mctid005,Lost Tracking,mcrid00000935
+usrid00028239,mctid003,Recoverd,mcrid00000936
+usrid00028259,mctid005,Recoverd,mcrid00000937
+usrid00028326,mctid006,Lost Tracking,mcrid00000938
+usrid00028379,mctid009,Recoverd,mcrid00000939
+usrid00028438,mctid007,Recoverd,mcrid00000940
+usrid00028559,mctid003,Lost Tracking,mcrid00000941
+usrid00028564,mctid006,Recoverd,mcrid00000942
+usrid00028568,mctid008,Lost Tracking,mcrid00000943
+usrid00028587,mctid008,Recoverd,mcrid00000944
+usrid00028600,mctid005,Recoverd,mcrid00000945
+usrid00028655,mctid004,Lost Tracking,mcrid00000946
+usrid00028668,mctid007,Death,mcrid00000947
+usrid00028669,mctid006,Recoverd,mcrid00000948
+usrid00028750,mctid006,Death,mcrid00000949
+usrid00028784,mctid008,Recoverd,mcrid00000950
+usrid00028818,mctid006,Death,mcrid00000951
+usrid00028866,mctid001,Death,mcrid00000952
+usrid00029015,mctid006,Lost Tracking,mcrid00000953
+usrid00029081,mctid006,Recoverd,mcrid00000954
+usrid00029178,mctid008,Recoverd,mcrid00000955
+usrid00029287,mctid006,Lost Tracking,mcrid00000956
+usrid00029302,mctid006,Death,mcrid00000957
+usrid00029311,mctid006,Recoverd,mcrid00000958
+usrid00029340,mctid008,Recoverd,mcrid00000959
+usrid00029446,mctid007,Recoverd,mcrid00000960
+usrid00029449,mctid005,Recoverd,mcrid00000961
+usrid00029637,mctid009,Lost Tracking,mcrid00000962
+usrid00029677,mctid006,Recoverd,mcrid00000963
+usrid00029696,mctid008,Recoverd,mcrid00000964
+usrid00029712,mctid006,Recoverd,mcrid00000965
+usrid00029792,mctid006,Recoverd,mcrid00000966
+usrid00029940,mctid006,Recoverd,mcrid00000967
+usrid00030005,mctid007,Recoverd,mcrid00000968
+usrid00030102,mctid007,Recoverd,mcrid00000969
+usrid00030120,mctid005,Recoverd,mcrid00000970
+usrid00030245,mctid005,Lost Tracking,mcrid00000971
+usrid00030256,mctid006,Recoverd,mcrid00000972
+usrid00030300,mctid005,Lost Tracking,mcrid00000973
+usrid00030354,mctid007,Lost Tracking,mcrid00000974
+usrid00030445,mctid006,Recoverd,mcrid00000975
+usrid00030502,mctid001,Recoverd,mcrid00000976
+usrid00030543,mctid005,Recoverd,mcrid00000977
+usrid00030585,mctid005,Lost Tracking,mcrid00000978
+usrid00030630,mctid006,Lost Tracking,mcrid00000979
+usrid00030723,mctid008,Recoverd,mcrid00000980
+usrid00030744,mctid002,Recoverd,mcrid00000981
+usrid00030746,mctid004,Lost Tracking,mcrid00000982
+usrid00030777,mctid007,Recoverd,mcrid00000983
+usrid00030882,mctid006,Recoverd,mcrid00000984
+usrid00030991,mctid001,Lost Tracking,mcrid00000985
+usrid00031020,mctid004,Recoverd,mcrid00000986
+usrid00031089,mctid005,Lost Tracking,mcrid00000987
+usrid00031092,mctid001,Recoverd,mcrid00000988
+usrid00031093,mctid001,Lost Tracking,mcrid00000989
+usrid00031110,mctid002,Lost Tracking,mcrid00000990
+usrid00031161,mctid006,Lost Tracking,mcrid00000991
+usrid00031227,mctid002,Recoverd,mcrid00000992
+usrid00031279,mctid006,Recoverd,mcrid00000993
+usrid00031281,mctid004,Recoverd,mcrid00000994
+usrid00031470,mctid002,Lost Tracking,mcrid00000995
+usrid00031479,mctid008,Lost Tracking,mcrid00000996
+usrid00031499,mctid006,Recoverd,mcrid00000997
+usrid00031610,mctid005,Death,mcrid00000998
+usrid00031695,mctid006,Recoverd,mcrid00000999
+usrid00031750,mctid009,Lost Tracking,mcrid00001000
+usrid00031813,mctid008,Lost Tracking,mcrid00001001
+usrid00031820,mctid009,Lost Tracking,mcrid00001002
+usrid00031862,mctid006,Recoverd,mcrid00001003
+usrid00031878,mctid005,Lost Tracking,mcrid00001004
+usrid00031890,mctid005,Lost Tracking,mcrid00001005
+usrid00032047,mctid006,Lost Tracking,mcrid00001006
+usrid00032062,mctid002,Recoverd,mcrid00001007
+usrid00032069,mctid005,Lost Tracking,mcrid00001008
+usrid00032134,mctid006,Lost Tracking,mcrid00001009
+usrid00032175,mctid008,Lost Tracking,mcrid00001010
+usrid00032298,mctid008,Lost Tracking,mcrid00001011
+usrid00032317,mctid001,Lost Tracking,mcrid00001012
+usrid00032348,mctid002,Recoverd,mcrid00001013
+usrid00032392,mctid008,Recoverd,mcrid00001014
+usrid00032603,mctid004,Recoverd,mcrid00001015
+usrid00032698,mctid008,Recoverd,mcrid00001016
+usrid00032811,mctid006,Lost Tracking,mcrid00001017
+usrid00032812,mctid002,Recoverd,mcrid00001018
+usrid00032895,mctid009,Recoverd,mcrid00001019
+usrid00032992,mctid006,Recoverd,mcrid00001020
+usrid00033066,mctid002,Death,mcrid00001021
+usrid00033177,mctid005,Recoverd,mcrid00001022
+usrid00033218,mctid008,Recoverd,mcrid00001023
+usrid00033232,mctid005,Lost Tracking,mcrid00001024
+usrid00033362,mctid002,Recoverd,mcrid00001025
+usrid00033478,mctid006,Lost Tracking,mcrid00001026
+usrid00033479,mctid009,Lost Tracking,mcrid00001027
+usrid00033484,mctid006,Death,mcrid00001028
+usrid00033605,mctid007,Recoverd,mcrid00001029
+usrid00033607,mctid006,Recoverd,mcrid00001030
+usrid00033647,mctid006,Recoverd,mcrid00001031
+usrid00033667,mctid001,Recoverd,mcrid00001032
+usrid00033707,mctid006,Recoverd,mcrid00001033
+usrid00033711,mctid006,Death,mcrid00001034
+usrid00033712,mctid006,Recoverd,mcrid00001035
+usrid00033780,mctid002,Recoverd,mcrid00001036
+usrid00033823,mctid005,Lost Tracking,mcrid00001037
+usrid00033851,mctid005,Recoverd,mcrid00001038
+usrid00033989,mctid008,Recoverd,mcrid00001039
+usrid00034032,mctid006,Lost Tracking,mcrid00001040
+usrid00034094,mctid001,Lost Tracking,mcrid00001041
+usrid00034118,mctid001,Recoverd,mcrid00001042
+usrid00034122,mctid001,Recoverd,mcrid00001043
+usrid00034318,mctid008,Recoverd,mcrid00001044
+usrid00034342,mctid009,Recoverd,mcrid00001045
+usrid00034443,mctid009,Recoverd,mcrid00001046
+usrid00034481,mctid008,Lost Tracking,mcrid00001047
+usrid00034576,mctid005,Recoverd,mcrid00001048
+usrid00034769,mctid005,Recoverd,mcrid00001049
+usrid00034797,mctid001,Recoverd,mcrid00001050
+usrid00034834,mctid006,Recoverd,mcrid00001051
+usrid00034857,mctid005,Recoverd,mcrid00001052
+usrid00034859,mctid008,Recoverd,mcrid00001053
+usrid00034889,mctid002,Recoverd,mcrid00001054
+usrid00035034,mctid006,Lost Tracking,mcrid00001055
+usrid00035140,mctid002,Recoverd,mcrid00001056
+usrid00035219,mctid006,Lost Tracking,mcrid00001057
+usrid00035244,mctid006,Lost Tracking,mcrid00001058
+usrid00035252,mctid002,Lost Tracking,mcrid00001059
+usrid00035259,mctid006,Lost Tracking,mcrid00001060
+usrid00035287,mctid006,Lost Tracking,mcrid00001061
+usrid00035296,mctid005,Lost Tracking,mcrid00001062
+usrid00035325,mctid006,Lost Tracking,mcrid00001063
+usrid00035340,mctid001,Lost Tracking,mcrid00001064
+usrid00035425,mctid008,Recoverd,mcrid00001065
+usrid00035435,mctid009,Lost Tracking,mcrid00001066
+usrid00035587,mctid005,Recoverd,mcrid00001067
+usrid00035588,mctid005,Recoverd,mcrid00001068
+usrid00035653,mctid009,Recoverd,mcrid00001069
+usrid00035670,mctid006,Recoverd,mcrid00001070
+usrid00035776,mctid006,Recoverd,mcrid00001071
+usrid00035880,mctid006,Lost Tracking,mcrid00001072
+usrid00036001,mctid005,Lost Tracking,mcrid00001073
+usrid00036285,mctid008,Death,mcrid00001074
+usrid00036461,mctid005,Lost Tracking,mcrid00001075
+usrid00036499,mctid001,Recoverd,mcrid00001076
+usrid00036563,mctid008,Lost Tracking,mcrid00001077
+usrid00036572,mctid005,Recoverd,mcrid00001078
+usrid00036617,mctid005,Lost Tracking,mcrid00001079
+usrid00036647,mctid005,Recoverd,mcrid00001080
+usrid00036687,mctid005,Recoverd,mcrid00001081
+usrid00036734,mctid009,Recoverd,mcrid00001082
+usrid00036767,mctid006,Recoverd,mcrid00001083
+usrid00036802,mctid005,Recoverd,mcrid00001084
+usrid00036850,mctid005,Lost Tracking,mcrid00001085
+usrid00036856,mctid003,Recoverd,mcrid00001086
+usrid00036874,mctid005,Lost Tracking,mcrid00001087
+usrid00037069,mctid006,Recoverd,mcrid00001088
+usrid00037114,mctid005,Recoverd,mcrid00001089
+usrid00037139,mctid001,Death,mcrid00001090
+usrid00037185,mctid006,Recoverd,mcrid00001091
+usrid00037224,mctid005,Recoverd,mcrid00001092
+usrid00037304,mctid005,Recoverd,mcrid00001093
+usrid00037383,mctid006,Lost Tracking,mcrid00001094
+usrid00037411,mctid005,Recoverd,mcrid00001095
+usrid00037453,mctid002,Lost Tracking,mcrid00001096
+usrid00037513,mctid005,Lost Tracking,mcrid00001097
+usrid00037604,mctid006,Recoverd,mcrid00001098
+usrid00037616,mctid006,Recoverd,mcrid00001099
+usrid00037756,mctid001,Lost Tracking,mcrid00001100
+usrid00037917,mctid007,Recoverd,mcrid00001101
+usrid00037923,mctid008,Recoverd,mcrid00001102
+usrid00038166,mctid006,Lost Tracking,mcrid00001103
+usrid00038187,mctid001,Recoverd,mcrid00001104
+usrid00038214,mctid007,Recoverd,mcrid00001105
+usrid00038218,mctid008,Recoverd,mcrid00001106
+usrid00038305,mctid008,Lost Tracking,mcrid00001107
+usrid00038385,mctid006,Recoverd,mcrid00001108
+usrid00038418,mctid004,Recoverd,mcrid00001109
+usrid00038599,mctid008,Lost Tracking,mcrid00001110
+usrid00038705,mctid005,Lost Tracking,mcrid00001111
+usrid00038753,mctid003,Recoverd,mcrid00001112
+usrid00038848,mctid002,Recoverd,mcrid00001113
+usrid00038879,mctid001,Recoverd,mcrid00001114
+usrid00038905,mctid001,Recoverd,mcrid00001115
+usrid00038921,mctid009,Recoverd,mcrid00001116
+usrid00038941,mctid002,Lost Tracking,mcrid00001117
+usrid00039006,mctid001,Recoverd,mcrid00001118
+usrid00039064,mctid005,Recoverd,mcrid00001119
+usrid00039169,mctid008,Death,mcrid00001120
+usrid00039214,mctid005,Recoverd,mcrid00001121
+usrid00039322,mctid008,Lost Tracking,mcrid00001122
+usrid00039353,mctid008,Recoverd,mcrid00001123
+usrid00039470,mctid004,Recoverd,mcrid00001124
+usrid00039477,mctid009,Lost Tracking,mcrid00001125
+usrid00039502,mctid006,Lost Tracking,mcrid00001126
+usrid00039537,mctid003,Recoverd,mcrid00001127
+usrid00039637,mctid006,Lost Tracking,mcrid00001128
+usrid00039689,mctid008,Recoverd,mcrid00001129
+usrid00039690,mctid006,Recoverd,mcrid00001130
+usrid00039705,mctid007,Recoverd,mcrid00001131
+usrid00039738,mctid005,Recoverd,mcrid00001132
+usrid00039829,mctid007,Lost Tracking,mcrid00001133
+usrid00039867,mctid006,Recoverd,mcrid00001134
+usrid00039912,mctid006,Recoverd,mcrid00001135
+usrid00039985,mctid001,Recoverd,mcrid00001136
+usrid00039991,mctid006,Death,mcrid00001137
+usrid00040154,mctid008,Lost Tracking,mcrid00001138
+usrid00040202,mctid003,Recoverd,mcrid00001139
+usrid00040213,mctid007,Recoverd,mcrid00001140
+usrid00040252,mctid005,Recoverd,mcrid00001141
+usrid00040277,mctid001,Recoverd,mcrid00001142
+usrid00040285,mctid006,Recoverd,mcrid00001143
+usrid00040297,mctid009,Lost Tracking,mcrid00001144
+usrid00040309,mctid004,Recoverd,mcrid00001145
+usrid00040350,mctid006,Recoverd,mcrid00001146
+usrid00040357,mctid003,Lost Tracking,mcrid00001147
+usrid00040389,mctid009,Recoverd,mcrid00001148
+usrid00040393,mctid008,Lost Tracking,mcrid00001149
+usrid00040427,mctid001,Recoverd,mcrid00001150
+usrid00040450,mctid003,Recoverd,mcrid00001151
+usrid00040532,mctid006,Recoverd,mcrid00001152
+usrid00040590,mctid006,Lost Tracking,mcrid00001153
+usrid00040596,mctid002,Recoverd,mcrid00001154
+usrid00040710,mctid008,Lost Tracking,mcrid00001155
+usrid00040812,mctid008,Recoverd,mcrid00001156
+usrid00040854,mctid007,Lost Tracking,mcrid00001157
+usrid00040869,mctid005,Recoverd,mcrid00001158
+usrid00040930,mctid001,Lost Tracking,mcrid00001159
+usrid00040949,mctid009,Recoverd,mcrid00001160
+usrid00040965,mctid006,Lost Tracking,mcrid00001161
+usrid00040983,mctid001,Recoverd,mcrid00001162
+usrid00041014,mctid004,Recoverd,mcrid00001163
+usrid00041055,mctid001,Lost Tracking,mcrid00001164
+usrid00041121,mctid001,Death,mcrid00001165
+usrid00041126,mctid005,Recoverd,mcrid00001166
+usrid00041227,mctid005,Recoverd,mcrid00001167
+usrid00041262,mctid006,Recoverd,mcrid00001168
+usrid00041390,mctid006,Recoverd,mcrid00001169
+usrid00041782,mctid002,Recoverd,mcrid00001170
+usrid00041830,mctid006,Recoverd,mcrid00001171
+usrid00041854,mctid006,Recoverd,mcrid00001172
+usrid00041879,mctid005,Lost Tracking,mcrid00001173
+usrid00041940,mctid006,Recoverd,mcrid00001174
+usrid00042002,mctid001,Recoverd,mcrid00001175
+usrid00042032,mctid005,Lost Tracking,mcrid00001176
+usrid00042111,mctid009,Lost Tracking,mcrid00001177
+usrid00042258,mctid006,Recoverd,mcrid00001178
+usrid00042260,mctid006,Recoverd,mcrid00001179
+usrid00042316,mctid006,Death,mcrid00001180
+usrid00042399,mctid008,Lost Tracking,mcrid00001181
+usrid00042635,mctid005,Recoverd,mcrid00001182
+usrid00042832,mctid004,Recoverd,mcrid00001183
+usrid00042852,mctid002,Recoverd,mcrid00001184
+usrid00042944,mctid006,Death,mcrid00001185
+usrid00043194,mctid001,Recoverd,mcrid00001186
+usrid00043219,mctid004,Death,mcrid00001187
+usrid00043347,mctid006,Recoverd,mcrid00001188
+usrid00043666,mctid009,Death,mcrid00001189
+usrid00043677,mctid008,Recoverd,mcrid00001190
+usrid00043748,mctid005,Lost Tracking,mcrid00001191
+usrid00043789,mctid004,Lost Tracking,mcrid00001192
+usrid00043826,mctid006,Recoverd,mcrid00001193
+usrid00043890,mctid006,Recoverd,mcrid00001194
+usrid00043913,mctid006,Recoverd,mcrid00001195
+usrid00043935,mctid006,Recoverd,mcrid00001196
+usrid00043948,mctid001,Recoverd,mcrid00001197
+usrid00043963,mctid005,Recoverd,mcrid00001198
+usrid00043969,mctid006,Lost Tracking,mcrid00001199
+usrid00044017,mctid006,Recoverd,mcrid00001200
+usrid00044087,mctid003,Recoverd,mcrid00001201
+usrid00044224,mctid005,Lost Tracking,mcrid00001202
+usrid00044245,mctid001,Recoverd,mcrid00001203
+usrid00044305,mctid006,Recoverd,mcrid00001204
+usrid00044325,mctid006,Recoverd,mcrid00001205
+usrid00044334,mctid006,Lost Tracking,mcrid00001206
+usrid00044336,mctid003,Death,mcrid00001207
+usrid00044340,mctid006,Lost Tracking,mcrid00001208
+usrid00044351,mctid008,Recoverd,mcrid00001209
+usrid00044572,mctid008,Lost Tracking,mcrid00001210
+usrid00044611,mctid002,Lost Tracking,mcrid00001211
+usrid00044697,mctid005,Recoverd,mcrid00001212
+usrid00044750,mctid007,Recoverd,mcrid00001213
+usrid00045058,mctid006,Recoverd,mcrid00001214
+usrid00045132,mctid001,Recoverd,mcrid00001215
+usrid00045529,mctid002,Recoverd,mcrid00001216
+usrid00045596,mctid009,Lost Tracking,mcrid00001217
+usrid00045769,mctid006,Lost Tracking,mcrid00001218
+usrid00045802,mctid005,Lost Tracking,mcrid00001219
+usrid00045805,mctid005,Recoverd,mcrid00001220
+usrid00045884,mctid005,Lost Tracking,mcrid00001221
+usrid00046032,mctid003,Recoverd,mcrid00001222
+usrid00046103,mctid009,Recoverd,mcrid00001223
+usrid00046131,mctid006,Lost Tracking,mcrid00001224
+usrid00046242,mctid004,Recoverd,mcrid00001225
+usrid00046363,mctid006,Death,mcrid00001226
+usrid00046366,mctid006,Lost Tracking,mcrid00001227
+usrid00046405,mctid001,Recoverd,mcrid00001228
+usrid00046462,mctid002,Recoverd,mcrid00001229
+usrid00046493,mctid005,Recoverd,mcrid00001230
+usrid00046513,mctid001,Recoverd,mcrid00001231
+usrid00046528,mctid009,Lost Tracking,mcrid00001232
+usrid00046596,mctid001,Recoverd,mcrid00001233
+usrid00046625,mctid009,Lost Tracking,mcrid00001234
+usrid00046683,mctid006,Recoverd,mcrid00001235
+usrid00046732,mctid008,Recoverd,mcrid00001236
+usrid00046766,mctid009,Recoverd,mcrid00001237
+usrid00046923,mctid005,Lost Tracking,mcrid00001238
+usrid00046934,mctid006,Recoverd,mcrid00001239
+usrid00046978,mctid005,Recoverd,mcrid00001240
+usrid00047134,mctid006,Recoverd,mcrid00001241
+usrid00047156,mctid006,Lost Tracking,mcrid00001242
+usrid00047211,mctid009,Recoverd,mcrid00001243
+usrid00047361,mctid005,Recoverd,mcrid00001244
+usrid00047395,mctid006,Death,mcrid00001245
+usrid00047404,mctid005,Lost Tracking,mcrid00001246
+usrid00047422,mctid009,Recoverd,mcrid00001247
+usrid00047435,mctid005,Lost Tracking,mcrid00001248
+usrid00047462,mctid006,Recoverd,mcrid00001249
+usrid00047518,mctid006,Recoverd,mcrid00001250
+usrid00047616,mctid005,Recoverd,mcrid00001251
+usrid00047652,mctid009,Recoverd,mcrid00001252
+usrid00047663,mctid005,Lost Tracking,mcrid00001253
+usrid00047804,mctid006,Recoverd,mcrid00001254
+usrid00047899,mctid006,Lost Tracking,mcrid00001255
+usrid00047915,mctid009,Recoverd,mcrid00001256
+usrid00047997,mctid006,Recoverd,mcrid00001257
+usrid00048007,mctid007,Recoverd,mcrid00001258
+usrid00048053,mctid006,Recoverd,mcrid00001259
+usrid00048098,mctid005,Recoverd,mcrid00001260
+usrid00048111,mctid007,Recoverd,mcrid00001261
+usrid00048266,mctid007,Lost Tracking,mcrid00001262
+usrid00048311,mctid005,Recoverd,mcrid00001263
+usrid00048321,mctid006,Recoverd,mcrid00001264
+usrid00048463,mctid006,Recoverd,mcrid00001265
+usrid00048503,mctid003,Recoverd,mcrid00001266
+usrid00048504,mctid006,Lost Tracking,mcrid00001267
+usrid00048792,mctid001,Recoverd,mcrid00001268
+usrid00048821,mctid007,Lost Tracking,mcrid00001269
+usrid00048894,mctid006,Lost Tracking,mcrid00001270
+usrid00049041,mctid008,Recoverd,mcrid00001271
+usrid00049100,mctid007,Recoverd,mcrid00001272
+usrid00049281,mctid008,Lost Tracking,mcrid00001273
+usrid00049285,mctid006,Recoverd,mcrid00001274
+usrid00049316,mctid005,Lost Tracking,mcrid00001275
+usrid00049362,mctid006,Lost Tracking,mcrid00001276
+usrid00049455,mctid008,Recoverd,mcrid00001277
+usrid00049562,mctid006,Recoverd,mcrid00001278
+usrid00049564,mctid006,Recoverd,mcrid00001279
+usrid00049566,mctid002,Recoverd,mcrid00001280
+usrid00049569,mctid009,Recoverd,mcrid00001281
+usrid00049625,mctid004,Lost Tracking,mcrid00001282
+usrid00049664,mctid006,Lost Tracking,mcrid00001283
+usrid00049690,mctid005,Death,mcrid00001284
+usrid00049735,mctid006,Death,mcrid00001285
+usrid00049838,mctid006,Recoverd,mcrid00001286
+usrid00049892,mctid002,Lost Tracking,mcrid00001287
+usrid00049957,mctid006,Recoverd,mcrid00001288
+usrid00050066,mctid009,Recoverd,mcrid00001289
+usrid00050139,mctid005,Recoverd,mcrid00001290
+usrid00050257,mctid001,Recoverd,mcrid00001291
+usrid00050306,mctid001,Recoverd,mcrid00001292
+usrid00050430,mctid006,Recoverd,mcrid00001293
+usrid00050480,mctid006,Recoverd,mcrid00001294
+usrid00050626,mctid006,Recoverd,mcrid00001295
+usrid00050648,mctid006,Lost Tracking,mcrid00001296
+usrid00050704,mctid006,Recoverd,mcrid00001297
+usrid00050804,mctid001,Lost Tracking,mcrid00001298
+usrid00050878,mctid007,Recoverd,mcrid00001299
+usrid00051076,mctid003,Recoverd,mcrid00001300
+usrid00051150,mctid009,Recoverd,mcrid00001301
+usrid00051163,mctid005,Recoverd,mcrid00001302
+usrid00051330,mctid003,Lost Tracking,mcrid00001303
+usrid00051392,mctid005,Recoverd,mcrid00001304
+usrid00051461,mctid006,Recoverd,mcrid00001305
+usrid00051631,mctid006,Recoverd,mcrid00001306
+usrid00051674,mctid006,Lost Tracking,mcrid00001307
+usrid00051749,mctid006,Recoverd,mcrid00001308
+usrid00051764,mctid002,Recoverd,mcrid00001309
+usrid00051794,mctid004,Recoverd,mcrid00001310
+usrid00051823,mctid002,Recoverd,mcrid00001311
+usrid00051877,mctid006,Recoverd,mcrid00001312
+usrid00051966,mctid002,Lost Tracking,mcrid00001313
+usrid00052047,mctid005,Recoverd,mcrid00001314
+usrid00052238,mctid006,Recoverd,mcrid00001315
+usrid00052327,mctid002,Lost Tracking,mcrid00001316
+usrid00052342,mctid005,Recoverd,mcrid00001317
+usrid00052543,mctid002,Lost Tracking,mcrid00001318
+usrid00052632,mctid006,Lost Tracking,mcrid00001319
+usrid00052751,mctid004,Lost Tracking,mcrid00001320
+usrid00052774,mctid008,Lost Tracking,mcrid00001321
+usrid00053045,mctid001,Lost Tracking,mcrid00001322
+usrid00053098,mctid007,Recoverd,mcrid00001323
+usrid00053117,mctid006,Recoverd,mcrid00001324
+usrid00053158,mctid001,Recoverd,mcrid00001325
+usrid00053310,mctid001,Lost Tracking,mcrid00001326
+usrid00053318,mctid008,Lost Tracking,mcrid00001327
+usrid00053395,mctid005,Lost Tracking,mcrid00001328
+usrid00053414,mctid002,Recoverd,mcrid00001329
+usrid00053436,mctid006,Recoverd,mcrid00001330
+usrid00053484,mctid006,Lost Tracking,mcrid00001331
+usrid00053575,mctid008,Recoverd,mcrid00001332
+usrid00053629,mctid001,Recoverd,mcrid00001333
+usrid00053816,mctid001,Recoverd,mcrid00001334
+usrid00054040,mctid006,Lost Tracking,mcrid00001335
+usrid00054072,mctid004,Recoverd,mcrid00001336
+usrid00054092,mctid002,Lost Tracking,mcrid00001337
+usrid00054136,mctid006,Recoverd,mcrid00001338
+usrid00054146,mctid006,Recoverd,mcrid00001339
+usrid00054149,mctid009,Lost Tracking,mcrid00001340
+usrid00054183,mctid005,Lost Tracking,mcrid00001341
+usrid00054184,mctid005,Recoverd,mcrid00001342
+usrid00054190,mctid007,Lost Tracking,mcrid00001343
+usrid00054203,mctid008,Recoverd,mcrid00001344
+usrid00054213,mctid006,Recoverd,mcrid00001345
+usrid00054263,mctid005,Lost Tracking,mcrid00001346
+usrid00054281,mctid008,Recoverd,mcrid00001347
+usrid00054384,mctid001,Recoverd,mcrid00001348
+usrid00054385,mctid006,Recoverd,mcrid00001349
+usrid00054661,mctid002,Lost Tracking,mcrid00001350
+usrid00054726,mctid008,Recoverd,mcrid00001351
+usrid00054764,mctid005,Recoverd,mcrid00001352
+usrid00054878,mctid004,Lost Tracking,mcrid00001353
+usrid00055072,mctid009,Recoverd,mcrid00001354
+usrid00055105,mctid006,Recoverd,mcrid00001355
+usrid00055154,mctid006,Recoverd,mcrid00001356
+usrid00055156,mctid002,Recoverd,mcrid00001357
+usrid00055254,mctid005,Lost Tracking,mcrid00001358
+usrid00055313,mctid005,Recoverd,mcrid00001359
+usrid00055379,mctid001,Lost Tracking,mcrid00001360
+usrid00055398,mctid002,Recoverd,mcrid00001361
+usrid00055486,mctid009,Lost Tracking,mcrid00001362
+usrid00055497,mctid008,Lost Tracking,mcrid00001363
+usrid00055575,mctid005,Recoverd,mcrid00001364
+usrid00055598,mctid009,Lost Tracking,mcrid00001365
+usrid00055645,mctid006,Lost Tracking,mcrid00001366
+usrid00055688,mctid009,Recoverd,mcrid00001367
+usrid00055747,mctid008,Recoverd,mcrid00001368
+usrid00055841,mctid005,Lost Tracking,mcrid00001369
+usrid00055880,mctid001,Lost Tracking,mcrid00001370
+usrid00055906,mctid008,Lost Tracking,mcrid00001371
+usrid00056017,mctid008,Recoverd,mcrid00001372
+usrid00056036,mctid009,Recoverd,mcrid00001373
+usrid00056094,mctid006,Recoverd,mcrid00001374
+usrid00056166,mctid003,Lost Tracking,mcrid00001375
+usrid00056213,mctid004,Recoverd,mcrid00001376
+usrid00056243,mctid005,Recoverd,mcrid00001377
+usrid00056307,mctid002,Recoverd,mcrid00001378
+usrid00056370,mctid002,Lost Tracking,mcrid00001379
+usrid00056464,mctid006,Recoverd,mcrid00001380
+usrid00056470,mctid001,Recoverd,mcrid00001381
+usrid00056471,mctid001,Recoverd,mcrid00001382
+usrid00056492,mctid008,Lost Tracking,mcrid00001383
+usrid00056574,mctid006,Recoverd,mcrid00001384
+usrid00056657,mctid006,Death,mcrid00001385
+usrid00056690,mctid006,Recoverd,mcrid00001386
+usrid00056746,mctid008,Lost Tracking,mcrid00001387
+usrid00056771,mctid005,Lost Tracking,mcrid00001388
+usrid00056841,mctid008,Recoverd,mcrid00001389
+usrid00056856,mctid003,Recoverd,mcrid00001390
+usrid00056927,mctid006,Recoverd,mcrid00001391
+usrid00056986,mctid006,Recoverd,mcrid00001392
+usrid00057124,mctid008,Lost Tracking,mcrid00001393
+usrid00057217,mctid005,Lost Tracking,mcrid00001394
+usrid00057269,mctid006,Lost Tracking,mcrid00001395
+usrid00057299,mctid006,Lost Tracking,mcrid00001396
+usrid00057311,mctid006,Recoverd,mcrid00001397
+usrid00057389,mctid007,Lost Tracking,mcrid00001398
+usrid00057511,mctid001,Recoverd,mcrid00001399
+usrid00057550,mctid004,Lost Tracking,mcrid00001400
+usrid00057613,mctid001,Recoverd,mcrid00001401
+usrid00057648,mctid005,Recoverd,mcrid00001402
+usrid00057841,mctid008,Recoverd,mcrid00001403
+usrid00057934,mctid004,Lost Tracking,mcrid00001404
+usrid00058002,mctid006,Lost Tracking,mcrid00001405
+usrid00058003,mctid009,Lost Tracking,mcrid00001406
+usrid00058081,mctid006,Recoverd,mcrid00001407
+usrid00058110,mctid002,Recoverd,mcrid00001408
+usrid00058114,mctid006,Death,mcrid00001409
+usrid00058239,mctid005,Recoverd,mcrid00001410
+usrid00058355,mctid003,Recoverd,mcrid00001411
+usrid00058430,mctid002,Death,mcrid00001412
+usrid00058452,mctid005,Recoverd,mcrid00001413
+usrid00058470,mctid008,Recoverd,mcrid00001414
+usrid00058474,mctid004,Recoverd,mcrid00001415
+usrid00058480,mctid006,Recoverd,mcrid00001416
+usrid00058568,mctid006,Recoverd,mcrid00001417
+usrid00058574,mctid008,Recoverd,mcrid00001418
+usrid00058737,mctid001,Lost Tracking,mcrid00001419
+usrid00058791,mctid009,Lost Tracking,mcrid00001420
+usrid00058800,mctid006,Lost Tracking,mcrid00001421
+usrid00058849,mctid005,Lost Tracking,mcrid00001422
+usrid00058858,mctid001,Recoverd,mcrid00001423
+usrid00058882,mctid006,Recoverd,mcrid00001424
+usrid00058899,mctid001,Lost Tracking,mcrid00001425
+usrid00059164,mctid002,Recoverd,mcrid00001426
+usrid00059243,mctid001,Death,mcrid00001427
+usrid00059334,mctid008,Lost Tracking,mcrid00001428
+usrid00059347,mctid008,Recoverd,mcrid00001429
+usrid00059355,mctid008,Lost Tracking,mcrid00001430
+usrid00059364,mctid007,Recoverd,mcrid00001431
+usrid00059408,mctid006,Lost Tracking,mcrid00001432
+usrid00059498,mctid005,Recoverd,mcrid00001433
+usrid00059503,mctid001,Recoverd,mcrid00001434
+usrid00059511,mctid006,Death,mcrid00001435
+usrid00059796,mctid004,Lost Tracking,mcrid00001436
+usrid00059978,mctid003,Recoverd,mcrid00001437
+usrid00060027,mctid006,Lost Tracking,mcrid00001438
+usrid00060044,mctid006,Recoverd,mcrid00001439
+usrid00060112,mctid008,Recoverd,mcrid00001440
+usrid00060168,mctid002,Recoverd,mcrid00001441
+usrid00060196,mctid005,Lost Tracking,mcrid00001442
+usrid00060223,mctid004,Recoverd,mcrid00001443
+usrid00060267,mctid006,Recoverd,mcrid00001444
+usrid00060287,mctid009,Lost Tracking,mcrid00001445
+usrid00060303,mctid002,Recoverd,mcrid00001446
+usrid00060583,mctid008,Lost Tracking,mcrid00001447
+usrid00060683,mctid005,Lost Tracking,mcrid00001448
+usrid00060869,mctid004,Recoverd,mcrid00001449
+usrid00060899,mctid006,Lost Tracking,mcrid00001450
+usrid00061155,mctid005,Recoverd,mcrid00001451
+usrid00061305,mctid005,Recoverd,mcrid00001452
+usrid00061460,mctid008,Recoverd,mcrid00001453
+usrid00061469,mctid008,Death,mcrid00001454
+usrid00061504,mctid001,Lost Tracking,mcrid00001455
+usrid00061528,mctid006,Recoverd,mcrid00001456
+usrid00061584,mctid002,Recoverd,mcrid00001457
+usrid00061589,mctid006,Recoverd,mcrid00001458
+usrid00061811,mctid005,Lost Tracking,mcrid00001459
+usrid00061893,mctid006,Recoverd,mcrid00001460
+usrid00061951,mctid007,Recoverd,mcrid00001461
+usrid00061971,mctid006,Lost Tracking,mcrid00001462
+usrid00062047,mctid001,Recoverd,mcrid00001463
+usrid00062157,mctid006,Recoverd,mcrid00001464
+usrid00062162,mctid006,Lost Tracking,mcrid00001465
+usrid00062167,mctid004,Recoverd,mcrid00001466
+usrid00062175,mctid001,Lost Tracking,mcrid00001467
+usrid00062276,mctid006,Recoverd,mcrid00001468
+usrid00062386,mctid006,Recoverd,mcrid00001469
+usrid00062417,mctid006,Recoverd,mcrid00001470
+usrid00062449,mctid005,Recoverd,mcrid00001471
+usrid00062458,mctid006,Lost Tracking,mcrid00001472
+usrid00062459,mctid001,Recoverd,mcrid00001473
+usrid00062542,mctid005,Recoverd,mcrid00001474
+usrid00062636,mctid005,Lost Tracking,mcrid00001475
+usrid00062665,mctid006,Lost Tracking,mcrid00001476
+usrid00062671,mctid003,Lost Tracking,mcrid00001477
+usrid00062702,mctid009,Recoverd,mcrid00001478
+usrid00062713,mctid009,Recoverd,mcrid00001479
+usrid00062950,mctid003,Recoverd,mcrid00001480
+usrid00062988,mctid006,Lost Tracking,mcrid00001481
+usrid00063021,mctid005,Lost Tracking,mcrid00001482
+usrid00063027,mctid006,Lost Tracking,mcrid00001483
+usrid00063050,mctid002,Recoverd,mcrid00001484
+usrid00063057,mctid005,Death,mcrid00001485
+usrid00063139,mctid008,Recoverd,mcrid00001486
+usrid00063164,mctid005,Recoverd,mcrid00001487
+usrid00063183,mctid003,Recoverd,mcrid00001488
+usrid00063275,mctid006,Recoverd,mcrid00001489
+usrid00063276,mctid002,Recoverd,mcrid00001490
+usrid00063316,mctid005,Lost Tracking,mcrid00001491
+usrid00063334,mctid005,Recoverd,mcrid00001492
+usrid00063448,mctid008,Recoverd,mcrid00001493
+usrid00063462,mctid002,Recoverd,mcrid00001494
+usrid00063502,mctid008,Recoverd,mcrid00001495
+usrid00063573,mctid006,Recoverd,mcrid00001496
+usrid00063579,mctid001,Recoverd,mcrid00001497
+usrid00063603,mctid001,Recoverd,mcrid00001498
+usrid00063634,mctid007,Recoverd,mcrid00001499
+usrid00063819,mctid006,Lost Tracking,mcrid00001500
+usrid00063857,mctid008,Recoverd,mcrid00001501
+usrid00063890,mctid006,Recoverd,mcrid00001502
+usrid00063900,mctid005,Recoverd,mcrid00001503
+usrid00063939,mctid001,Recoverd,mcrid00001504
+usrid00064115,mctid008,Recoverd,mcrid00001505
+usrid00064167,mctid006,Recoverd,mcrid00001506
+usrid00064199,mctid006,Recoverd,mcrid00001507
+usrid00064222,mctid008,Recoverd,mcrid00001508
+usrid00064231,mctid005,Recoverd,mcrid00001509
+usrid00064299,mctid006,Lost Tracking,mcrid00001510
+usrid00064367,mctid001,Recoverd,mcrid00001511
+usrid00064382,mctid006,Lost Tracking,mcrid00001512
+usrid00064503,mctid006,Recoverd,mcrid00001513
+usrid00064537,mctid001,Lost Tracking,mcrid00001514
+usrid00064594,mctid009,Recoverd,mcrid00001515
+usrid00064627,mctid009,Recoverd,mcrid00001516
+usrid00064670,mctid001,Recoverd,mcrid00001517
+usrid00064695,mctid002,Death,mcrid00001518
+usrid00064810,mctid003,Recoverd,mcrid00001519
+usrid00064962,mctid002,Recoverd,mcrid00001520
+usrid00065081,mctid001,Lost Tracking,mcrid00001521
+usrid00065120,mctid006,Recoverd,mcrid00001522
+usrid00065124,mctid006,Lost Tracking,mcrid00001523
+usrid00065139,mctid008,Recoverd,mcrid00001524
+usrid00065280,mctid008,Recoverd,mcrid00001525
+usrid00065357,mctid005,Lost Tracking,mcrid00001526
+usrid00065494,mctid009,Lost Tracking,mcrid00001527
+usrid00065719,mctid005,Recoverd,mcrid00001528
+usrid00065868,mctid001,Recoverd,mcrid00001529
+usrid00065886,mctid005,Recoverd,mcrid00001530
+usrid00065912,mctid005,Lost Tracking,mcrid00001531
+usrid00065939,mctid006,Recoverd,mcrid00001532
+usrid00066004,mctid006,Recoverd,mcrid00001533
+usrid00066023,mctid006,Recoverd,mcrid00001534
+usrid00066033,mctid008,Recoverd,mcrid00001535
+usrid00066048,mctid009,Lost Tracking,mcrid00001536
+usrid00066109,mctid005,Recoverd,mcrid00001537
+usrid00066278,mctid006,Recoverd,mcrid00001538
+usrid00066321,mctid007,Lost Tracking,mcrid00001539
+usrid00066337,mctid006,Lost Tracking,mcrid00001540
+usrid00066350,mctid005,Lost Tracking,mcrid00001541
+usrid00066436,mctid006,Recoverd,mcrid00001542
+usrid00066451,mctid008,Recoverd,mcrid00001543
+usrid00066488,mctid006,Lost Tracking,mcrid00001544
+usrid00066490,mctid005,Recoverd,mcrid00001545
+usrid00066587,mctid001,Recoverd,mcrid00001546
+usrid00066593,mctid006,Recoverd,mcrid00001547
+usrid00066661,mctid006,Recoverd,mcrid00001548
+usrid00066713,mctid006,Recoverd,mcrid00001549
+usrid00066739,mctid006,Recoverd,mcrid00001550
+usrid00066826,mctid004,Recoverd,mcrid00001551
+usrid00066840,mctid006,Recoverd,mcrid00001552
+usrid00066878,mctid006,Recoverd,mcrid00001553
+usrid00066881,mctid006,Recoverd,mcrid00001554
+usrid00066892,mctid001,Lost Tracking,mcrid00001555
+usrid00066893,mctid006,Lost Tracking,mcrid00001556
+usrid00066970,mctid006,Lost Tracking,mcrid00001557
+usrid00066999,mctid009,Lost Tracking,mcrid00001558
+usrid00067111,mctid006,Recoverd,mcrid00001559
+usrid00067261,mctid001,Recoverd,mcrid00001560
+usrid00067271,mctid008,Death,mcrid00001561
+usrid00067276,mctid004,Recoverd,mcrid00001562
+usrid00067320,mctid005,Lost Tracking,mcrid00001563
+usrid00067330,mctid005,Lost Tracking,mcrid00001564
+usrid00067355,mctid006,Lost Tracking,mcrid00001565
+usrid00067471,mctid009,Recoverd,mcrid00001566
+usrid00067533,mctid009,Recoverd,mcrid00001567
+usrid00067642,mctid006,Lost Tracking,mcrid00001568
+usrid00067670,mctid008,Recoverd,mcrid00001569
+usrid00067817,mctid005,Recoverd,mcrid00001570
+usrid00067876,mctid009,Lost Tracking,mcrid00001571
+usrid00067937,mctid008,Lost Tracking,mcrid00001572
+usrid00067977,mctid005,Recoverd,mcrid00001573
+usrid00068081,mctid007,Recoverd,mcrid00001574
+usrid00068083,mctid008,Recoverd,mcrid00001575
+usrid00068181,mctid006,Recoverd,mcrid00001576
+usrid00068184,mctid005,Recoverd,mcrid00001577
+usrid00068201,mctid005,Recoverd,mcrid00001578
+usrid00068316,mctid006,Recoverd,mcrid00001579
+usrid00068332,mctid005,Recoverd,mcrid00001580
+usrid00068393,mctid005,Recoverd,mcrid00001581
+usrid00068438,mctid006,Recoverd,mcrid00001582
+usrid00068452,mctid003,Recoverd,mcrid00001583
+usrid00068483,mctid006,Lost Tracking,mcrid00001584
+usrid00068507,mctid006,Recoverd,mcrid00001585
+usrid00068552,mctid001,Recoverd,mcrid00001586
+usrid00068573,mctid005,Lost Tracking,mcrid00001587
+usrid00068657,mctid006,Recoverd,mcrid00001588
+usrid00068771,mctid002,Recoverd,mcrid00001589
+usrid00068823,mctid006,Lost Tracking,mcrid00001590
+usrid00068836,mctid001,Recoverd,mcrid00001591
+usrid00068960,mctid004,Lost Tracking,mcrid00001592
+usrid00069027,mctid005,Recoverd,mcrid00001593
+usrid00069405,mctid008,Recoverd,mcrid00001594
+usrid00069436,mctid006,Lost Tracking,mcrid00001595
+usrid00069495,mctid002,Lost Tracking,mcrid00001596
+usrid00069595,mctid006,Recoverd,mcrid00001597
+usrid00069619,mctid002,Lost Tracking,mcrid00001598
+usrid00069657,mctid002,Recoverd,mcrid00001599
+usrid00069696,mctid006,Recoverd,mcrid00001600
+usrid00069733,mctid008,Lost Tracking,mcrid00001601
+usrid00069823,mctid006,Lost Tracking,mcrid00001602
+usrid00069927,mctid001,Recoverd,mcrid00001603
+usrid00069949,mctid004,Lost Tracking,mcrid00001604
+usrid00069968,mctid001,Recoverd,mcrid00001605
+usrid00069999,mctid006,Recoverd,mcrid00001606
+usrid00070000,mctid006,Lost Tracking,mcrid00001607
+usrid00070019,mctid006,Recoverd,mcrid00001608
+usrid00070021,mctid006,Lost Tracking,mcrid00001609
+usrid00070113,mctid008,Recoverd,mcrid00001610
+usrid00070124,mctid004,Lost Tracking,mcrid00001611
+usrid00070196,mctid006,Lost Tracking,mcrid00001612
+usrid00070230,mctid006,Lost Tracking,mcrid00001613
+usrid00070255,mctid006,Lost Tracking,mcrid00001614
+usrid00070256,mctid008,Recoverd,mcrid00001615
+usrid00070325,mctid007,Recoverd,mcrid00001616
+usrid00070348,mctid003,Lost Tracking,mcrid00001617
+usrid00070461,mctid001,Recoverd,mcrid00001618
+usrid00070560,mctid001,Lost Tracking,mcrid00001619
+usrid00070573,mctid005,Recoverd,mcrid00001620
+usrid00070583,mctid007,Lost Tracking,mcrid00001621
+usrid00070669,mctid009,Lost Tracking,mcrid00001622
+usrid00070751,mctid002,Recoverd,mcrid00001623
+usrid00070791,mctid001,Recoverd,mcrid00001624
+usrid00070845,mctid006,Lost Tracking,mcrid00001625
+usrid00071018,mctid005,Recoverd,mcrid00001626
+usrid00071096,mctid005,Recoverd,mcrid00001627
+usrid00071296,mctid005,Recoverd,mcrid00001628
+usrid00071484,mctid006,Recoverd,mcrid00001629
+usrid00071501,mctid006,Recoverd,mcrid00001630
+usrid00071580,mctid006,Recoverd,mcrid00001631
+usrid00071610,mctid009,Lost Tracking,mcrid00001632
+usrid00071634,mctid001,Recoverd,mcrid00001633
+usrid00071743,mctid007,Recoverd,mcrid00001634
+usrid00071836,mctid009,Death,mcrid00001635
+usrid00071947,mctid004,Lost Tracking,mcrid00001636
+usrid00072104,mctid005,Lost Tracking,mcrid00001637
+usrid00072212,mctid001,Lost Tracking,mcrid00001638
+usrid00072217,mctid009,Recoverd,mcrid00001639

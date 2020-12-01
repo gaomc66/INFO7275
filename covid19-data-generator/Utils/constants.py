@@ -39,19 +39,34 @@ age_weight = {
     8: {'agid01': 13, 'agid02': 25, 'agid03': 17, 'agid04': 12, 'agid05': 13, 'agid06': 10, 'agid07': 5, 'agid08': 4}
 }
 
+death_list = {
+    '6/1': 35, '6/2': 50, '6/3': 40, '6/4': 45, '6/5': 30, '6/6': 42, '6/7': 38, '6/8': 39, '6/9': 38,
+    '6/10': 32, '6/11': 34, '6/12': 35, '6/13': 33, '6/14': 41, '6/15': 35, '6/16': 31, '6/17': 28,
+    '6/18': 34, '6/19': 22, '6/20': 21, '6/21': 23, '6/22': 20, '6/23': 22, '6/24': 25, '6/25': 28,
+    '6/26': 21, '6/27': 19, '6/28': 26, '6/29': 24, '6/30': 21,
+    '7/1': 26, '7/2': 28, '7/3': 22, '7/4': 23, '7/5': 21, '7/6': 25, '7/7': 27, '7/8': 18, '7/9': 16,
+    '7/10': 21, '7/11': 19, '7/12': 22, '7/13': 20, '7/14': 15, '7/15': 21, '7/16': 22, '7/17': 20,
+    '7/18': 15, '7/19': 17, '7/20': 13, '7/21': 16, '7/22': 16, '7/23': 18, '7/24': 21, '7/25': 18,
+    '7/26': 22, '7/27': 14, '7/28': 16, '7/29': 25, '7/30': 11, '7/31': 13
+}
+
 #
 gender_list = ('male', 'female')
-medical_status_list = ('Positive', 'Negative')
+test_status_list = ('Positive', 'Negative')
+medical_status_list = ('Recoverd', 'Lost Tracking', 'Death')
 
 # id
 age_group_id_list = ('agid01', 'agid02', 'agid03', 'agid04', 'agid05', 'agid06', 'agid07', 'agid08')
+
 test_center_id_list = (
     'tctid001', 'tctid002', 'tctid003', 'tctid004', 'tctid005', 'tctid006', 'tctid007', 'tctid008', 'tctid009',
     'tctid010', 'tctid011', 'tctid012', 'tctid013', 'tctid014')
+
 medical_center_id_list = (
-    'mctid001', 'mctid002', 'mctid003', 'mctid004', 'mctid005', 'mctid006', 'mctid007', 'mctid008', 'mctid009',
-    'mctid010',
-    'mctid011', 'mctid012', 'mctid013', 'mctid014')
+    'mctid001', 'mctid002', 'mctid003', 'mctid004', 'mctid005', 'mctid006', 'mctid007', 'mctid008', 'mctid009')
+
+medical_center_weight = {'mctid001': 10, 'mctid002': 8, 'mctid003': 3, 'mctid004': 4, 'mctid005': 20, 'mctid006': 30,
+                         'mctid007': 5, 'mctid008': 14, 'mctid009': 6}
 
 county_weight = {'Barnstable': 1.3647942, 'Berkshire': 0.6864977999999999, 'Bristol': 9.0465255,
                  'Dukes': 0.12205479999999999, 'Essex': 15.8704965, 'Franklin': 0.2918701, 'Hampden': 7.317979199999999,
