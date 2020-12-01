@@ -1,6 +1,6 @@
-import generator
+from Generators import generator
 import time
-import datetime
+
 
 def main():
     start_at = time.perf_counter()
