@@ -26,7 +26,7 @@ def generator():
 
     # Open TestCases.csv
     mdc_file = open("../generated-data/MedicalStatus.csv", "w")
-    mdc_fieldnames = ['UserID', 'MedicalCenterID', 'StatusID', '_id']
+    mdc_fieldnames = ['UserID', 'MedicalCenterID', 'StatusID', 'Date', '_id']
     mdc_writer = csv.DictWriter(mdc_file, fieldnames=mdc_fieldnames)
     mdc_writer.writeheader()
 

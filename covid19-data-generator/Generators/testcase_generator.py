@@ -1,11 +1,12 @@
 from faker import Faker
 import random
 from Utils.constants import *
-from  Generators import medical_report_generator
+from Generators import medical_report_generator
 import datetime
 
-
 counter = 0
+
+
 # generate one test case for each user
 # _id f"tscid{counter_tsc:08n}", UserID, Result, TestCenterID, TestDate
 def generate_testcase(today, users, writer, fieldnames, mdc_writer, mdc_filednames):
@@ -29,7 +30,7 @@ def generate_testcase(today, users, writer, fieldnames, mdc_writer, mdc_filednam
         TestCenterID = random.choice(medical_center_id_list)
 
         # TestDate
-        today_str = "2020/"+today
+        today_str = "2020/" + today
         TestDate = datetime.datetime.strptime(today_str, "%Y/%m/%d")
 
         curt_tsc = {}
@@ -38,6 +39,5 @@ def generate_testcase(today, users, writer, fieldnames, mdc_writer, mdc_filednam
 
         writer.writerow(curt_tsc)
 
-        if(Result == 'Positive'):
+        if (Result == 'Positive'):
             medical_report_generator.generate_medical_report(today, curtUser, mdc_writer, mdc_filednames)
-

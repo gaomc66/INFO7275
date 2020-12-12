@@ -2,6 +2,7 @@ from Generators import generator
 import time
 
 
+# main function
 def main():
     start_at = time.perf_counter()
     generator.generator()
@@ -9,8 +10,6 @@ def main():
     print(f"{end_at - start_at:0.4f}")
 
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     main()
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
